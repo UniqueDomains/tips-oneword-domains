@@ -1,22 +1,22 @@
-# Available .TIPS One-Word Domains (8,479)
+# Available .TIPS One-Word Domains (10,912)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C476%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C479%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C912%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .tips one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,476-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,479 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,912 domains** on the canonical page below.
 
-**Public extract:** 8,476 rows · **Live catalog:** 8,479 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,912 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/tips`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .TIPS one-word domain 
 
 ### Files
 
-- `tips.csv` — public CSV extract (8,476 rows)
-- `tips.json` — public JSON extract (8,476 rows)
+- `tips.csv` — public CSV extract (1,000 rows)
+- `tips.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| every.tips     | available | $14.99    | —             | 82             | 46     | 5      | name.com                                    |
-| box.tips       | resell    | —         | —             | 68             | 78     | 3      | united-domains GmbH                         |
-| ace.tips       | premium   | $250      | $250          | 88             | 57     | 3      | name.com                                    |
-| track.tips     | available | $14.99    | $39.99        | 94             | 44     | 5      | name.com                                    |
-| wise.tips      | resell    | —         | —             | 98             | 72     | 4      | GoDaddy.com, LLC                            |
-| live.tips      | premium   | $123.75   | $123.75       | 108            | 54     | 4      | name.com                                    |
-| conscious.tips | available | $14.99    | $39.99        | 89             | 38     | 9      | name.com                                    |
-| home.tips      | resell    | —         | —             | 100            | 62     | 4      | GoDaddy Online Services Cayman Islands Ltd. |
-| athletics.tips | premium   | $85.80    | $85.80        | 69             | 52     | 9      | namecheap                                   |
-| climate.tips   | available | $14.99    | —             | 76             | 38     | 7      | name.com                                    |
-| code.tips      | resell    | —         | —             | 72             | 61     | 4      | Porkbun LLC                                 |
-| law.tips       | premium   | $128.70   | $128.70       | 82             | 46     | 3      | namecheap                                   |
-| unify.tips     | available | $14.99    | $39.99        | 72             | 38     | 5      | name.com                                    |
-| open.tips      | resell    | —         | —             | 106            | 60     | 4      | Spaceship, Inc.                             |
-| hotel.tips     | premium   | $128.70   | $128.70       | 70             | 45     | 5      | namecheap                                   |
-| about.tips     | available | $14.99    | $39.99        | 94             | 37     | 5      | name.com                                    |
-| pay.tips       | resell    | —         | —             | 84             | 60     | 3      | Dynadot Inc                                 |
-| energy.tips    | premium   | $520      | $520          | 82             | 43     | 6      | namecheap                                   |
-| view.tips      | available | $14.99    | —             | 76             | 37     | 4      | name.com                                    |
-| sex.tips       | resell    | —         | —             | 98             | 59     | 3      | GoDaddy.com, LLC                            |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| justin.tips      | available | $14.99    | —             | 58             | 38     | 7      | name.com                                                  |
+| online.tips      | resell    | —         | —             | 70             | 62     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
+| Tools.tips       | premium   | $560      | $560          | 56             | 40     | 5      | namecheap                                                 |
+| aliens.tips      | available | $14.99    | —             | 56             | 35     | 6      | name.com                                                  |
+| coins.tips       | resell    | —         | —             | 56             | 41     | 5      | Dynadot Inc                                               |
+| dogs.tips        | premium   | $82.50    | —             | 76             | 28     | 4      | name.com                                                  |
+| trends.tips      | available | $14.99    | —             | 60             | 32     | 6      | name.com                                                  |
+| events.tips      | resell    | —         | —             | 68             | 37     | 6      | Mesh Digital Limited                                      |
+| photos.tips      | premium   | $500      | —             | 54             | 28     | 6      | name.com                                                  |
+| William.tips     | available | $42.48    | —             | 74             | 31     | 7      | namecheap                                                 |
+| english.tips     | resell    | —         | —             | 78             | 35     | 7      | Go Canada Domains, LLC                                    |
+| KFC.tips         | premium   | $92.40    | $92.40        | 74             | 27     | 3      | namecheap                                                 |
+| letsgo.tips      | available | $14.99    | —             | 57             | 31     | 7      | name.com                                                  |
+| teams.tips       | resell    | —         | —             | 62             | 32     | 5      | GoDaddy.com, LLC                                          |
+| flights.tips     | premium   | $500      | —             | 61             | 22     | 7      | name.com                                                  |
+| gems.tips        | available | $14.99    | —             | 70             | 28     | 4      | name.com                                                  |
+| destination.tips | resell    | —         | —             | 90             | 25     | 11     | Epik LLC                                                  |
+| vacations.tips   | premium   | $500      | —             | 56             | 19     | 9      | name.com                                                  |
+| trades.tips      | available | $14.99    | —             | 71             | 26     | 6      | name.com                                                  |
+| landscaping.tips | resell    | —         | —             | 80             | 16     | 11     | GoDaddy.com, LLC                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,476-row public sample | 8,479 live domains                               |
+| 1,000-row public sample | 10,912 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TIPS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TIPS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
