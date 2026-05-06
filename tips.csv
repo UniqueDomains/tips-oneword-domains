@@ -142,7 +142,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0b01a0bb-81cc-4450-ae4f-58ecf839397c,thebird.tips,available,14.99,,58,6,8,name.com,,
 0b04ac72-5887-43e1-9656-49778bb6fdd7,coffeemakers.tips,available,14.99,,62,3,12,name.com,,
 0b160837-befd-4dca-a4fe-c74f25bf66ce,genericnames.tips,available,14.99,,42,2,13,name.com,,
-0b38e983-7d7b-4d80-8522-36d1178b82ed,exercise.tips,resell,,,84,13,8,Porkbun LLC,15/07/2015 16:00,15/07/2026 16:00
+0b38e983-7d7b-4d80-8522-36d1178b82ed,exercise.tips,resell,,,84,15,8,Porkbun LLC,15/07/2015 16:00,15/07/2026 16:00
 0b553826-d732-46b8-98e1-b71bfbb973f4,goquietly.tips,available,14.99,,66,1,10,name.com,,
 0b72c5df-a8fa-4940-92ac-f26820076604,sparklingwine.tips,available,14.99,,69,4,14,name.com,,
 0b757e72-a6d3-46a4-bb11-b198c8049d3e,streamed.tips,available,14.99,,73,9,8,name.com,,
