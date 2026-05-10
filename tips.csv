@@ -818,6 +818,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 498a9380-24f1-454f-921f-c363754a51e8,explained.tips,available,14.99,,50,10,9,name.com,,
 49b5208e-53cb-48b7-b11b-4ebf31bdae19,setin.tips,available,14.99,,68,5,6,name.com,,
 49bbf335-98e7-4784-8c2c-14d41bf14408,shells.tips,available,14.99,,58,9,6,name.com,,
+49d304f1-0ea8-44c3-ac30-6cb480a31886,install.tips,premium,,,76,23,7,,,
 49e5659b-b8ab-4df6-9f5b-cbc690314d9c,affections.tips,available,14.99,,62,2,10,name.com,,
 49ed6d45-e95a-421c-8f30-9c9d4c922568,pomegranates.tips,available,14.99,,60,4,12,name.com,,
 49f58f81-bbac-4a2e-88e5-9c2f3838b12c,Phillip.tips,available,42.48,,70,14,7,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5a5be5d7-e158-48a4-b9e0-dc53bfc7333b,wears.tips,available,14.99,,62,7,5,name.com,,
 5a802497-6420-4332-8568-79de23cc33d1,Ilostmybag.tips,available,42.48,,50,1,13,namecheap,,
 5a934ee4-00a5-4566-add4-ee04ea2dcc9e,manybodied.tips,available,14.99,,68,1,11,name.com,,
-5a9feedc-ca1a-409c-8dc2-485f1f48a5c1,recycled.tips,available,14.99,,79,10,8,name.com,,
