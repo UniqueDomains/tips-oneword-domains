@@ -1,10 +1,10 @@
-# Available .TIPS One-Word Domains (11,325)
+# Available .TIPS One-Word Domains (11,327)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C325%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C327%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .tips one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,325 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,327 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,325 domains · **Median ask:** $20.69 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,327 domains · **Median ask:** $21.66 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/tips`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/tips`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .TIPS one-word domain 
 
 ### Files
 
-- `tips.csv` — public CSV extract (1,000 rows)
-- `tips.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `tips.csv`, public CSV extract (1,000 rows)
+- `tips.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| justin.tips      | available | $14.99    | —             | 58             | 38     | 7      | name.com                                                  |
-| online.tips      | resell    | —         | —             | 70             | 62     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
-| Tools.tips       | premium   | $560      | $560          | 56             | 40     | 5      | namecheap                                                 |
-| aliens.tips      | available | $14.99    | —             | 56             | 35     | 6      | name.com                                                  |
-| coins.tips       | resell    | —         | —             | 56             | 41     | 5      | Dynadot Inc                                               |
-| dogs.tips        | premium   | $82.50    | —             | 76             | 28     | 4      | name.com                                                  |
-| trends.tips      | available | $14.99    | —             | 60             | 32     | 6      | name.com                                                  |
-| events.tips      | resell    | —         | —             | 68             | 37     | 6      | Mesh Digital Limited                                      |
-| photos.tips      | premium   | $500      | —             | 54             | 28     | 6      | name.com                                                  |
-| William.tips     | available | $42.48    | —             | 74             | 31     | 7      | namecheap                                                 |
-| teams.tips       | resell    | —         | —             | 62             | 32     | 5      | GoDaddy.com, LLC                                          |
-| KFC.tips         | premium   | $92.40    | $92.40        | 74             | 27     | 3      | namecheap                                                 |
-| letsgo.tips      | available | $14.99    | —             | 57             | 31     | 7      | name.com                                                  |
-| landscaping.tips | resell    | —         | —             | 80             | 16     | 11     | GoDaddy.com, LLC                                          |
-| flights.tips     | premium   | $500      | —             | 61             | 22     | 7      | name.com                                                  |
-| gems.tips        | available | $14.99    | —             | 70             | 28     | 4      | name.com                                                  |
-| exercise.tips    | resell    | —         | —             | 84             | 15     | 8      | Porkbun LLC                                               |
-| vacations.tips   | premium   | $500      | —             | 56             | 19     | 9      | name.com                                                  |
-| trades.tips      | available | $14.99    | —             | 71             | 26     | 6      | name.com                                                  |
-| toes.tips        | resell    | —         | —             | 58             | 8      | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| come.tips   | available | $14.99    | —             | high           | low    | 4      | name.com          |
+| ate.tips    | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| air.tips    | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 43 |
+| man.tips    | premium   | $242      | $242          | high           | low    | 3      | namesilo          |
+| beg.tips    | available | $14.99    | —             | medium         | low    | 3      | name.com          |
+| day.tips    | resell    | —         | —             | high           | low    | 3      | Porkbun LLC       |
+| cafe.tips   | premium   | $500      | —             | high           | low    | 4      | name.com          |
+| dig.tips    | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| boat.tips   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
+| glass.tips  | premium   | $500      | —             | medium         | low    | 5      | name.com          |
+| dvd.tips    | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| food.tips   | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC  |
+| hotel.tips  | premium   | $128.70   | $128.70       | high           | medium | 5      | namecheap         |
+| gee.tips    | available | $14.99    | —             | medium         | low    | 3      | name.com          |
+| good.tips   | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.   |
+| coffee.tips | premium   | $500      | —             | high           | medium | 6      | name.com          |
+| its.tips    | available | $14.99    | —             | high           | medium | 3      | name.com          |
+| king.tips   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 10 |
+| dining.tips | premium   | $42.90    | $42.90        | high           | low    | 6      | namecheap         |
+| leg.tips    | available | $14.99    | —             | high           | low    | 3      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,325 live domains                        |
+| 1,000-row public sample | 11,327 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .tips domains. The extension gives each name an advice-led, instructional, or niche-help angle, so the strongest choices are words that feel credible when paired with guidance, expertise, or practical information. Examples such as absolute.tips, broadcast.tips, arabic.tips, and prenuptial.tips show the range: broad concepts, topic keywords, and specialist terms. When comparing these domains, focus first on whether the word naturally supports a tips-oriented use case, then check price discipline against the median ask of 20.69. For founders, memorability and clarity matter most. For investors, category relevance and realistic resale positioning matter more than novelty alone.
+This list groups one-word and short-phrase .tips domains such as takeabreak.tips, pictures.tips, honeymooning.tips, and popup.tips. Each name pairs the human, advice-driven tone of the .tips extension with a single ownable word, useful for founders scouting a brandable name and for investors comparing pricing across a wide domain set. With 11,327 domains and a median ask near $22, this selection covers everyday phrases, playful expressions, and niche terms that share the same short, memorable structure making .tips names easy to spell and reuse across advice, tips, and how-to style projects. Updated daily, the mix reflects current asking prices rather than fixed listings, so pricing context matters more than any single name.
 
-- One-word .tips names suit advice, tutorials, and niche guidance
-- Median ask is 20.69 across 11,321 listed domains
-- Best picks pair a clear keyword with a credible tips use case
-- Avoid words that feel awkward or weak with the .tips ending
+- 11,327 one-word .tips domains in this selection
+- Median ask near $22 across the set
+- Includes everyday phrases like takeabreak.tips, popup.tips
+- Updated daily to reflect current asking prices
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TIPS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TIPS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
