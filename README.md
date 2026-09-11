@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tips one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,228 domains · **Median ask:** $17.11 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-10
+**Last updated:** 2026-09-11
 **Canonical page:** `https://unique.domains/domains/tld/tips`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| come.tips   | available | $14.99    | —             | high           | low    | 4      | name.com          |
 | ate.tips    | available | $14.99    | —             | high           | low    | 3      | name.com          |
 | air.tips    | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 43 |
 | ass.tips    | premium   | $118.80   | $118.80       | low            | low    | 3      | namesilo          |
@@ -84,6 +83,7 @@ print(df.head())
 | king.tips   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 10 |
 | coffee.tips | premium   | $500      | —             | high           | medium | 6      | name.com          |
 | its.tips    | available | $14.99    | —             | high           | medium | 3      | name.com          |
+| mail.tips   | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 42 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TIPS One-Word Domains*. Version 2026-09-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TIPS One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
