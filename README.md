@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tips one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,445 domains · **Median ask:** $16.39 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/tips`
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | air.tips    | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC - 43 |
 | ass.tips    | premium   | $118.80   | $118.80       | low            | low    | 3      | namesilo          |
 | beg.tips    | available | $14.99    | —             | medium         | low    | 3      | name.com          |
-| day.tips    | resell    | —         | —             | high           | low    | 3      | Porkbun LLC       |
+| day.tips    | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.   |
 | man.tips    | premium   | $242      | $242          | high           | low    | 3      | namesilo          |
 | cxv.tips    | available | $12.98    | $42.48        | low            | low    | 3      | namecheap         |
 | boat.tips   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC  |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TIPS One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TIPS One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
