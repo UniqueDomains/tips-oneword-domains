@@ -1,22 +1,25 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 4b9f1ec1-3b5f-477e-9b40-7eab31152463,majorities.tips,available,15,,low,low,10,unstoppable,,,29/09/2026 05:40
 eee9a9de-c8b7-4b19-87a6-6f50c7f487f3,regrets.tips,available,15,,medium,low,7,unstoppable,,,28/09/2026 15:15
+186947d8-cad1-4271-a984-340f82809b2b,brighter.tips,available,12.98,42.48,high,low,8,namecheap,,,29/09/2026 10:57
 696816fb-8138-41b2-826a-33cf79089c36,barm.tips,available,12.98,42.48,medium,low,4,namecheap,,,22/09/2026 06:34
 22684c89-7264-49b7-be6c-9ef6714b0d04,montclair.tips,available,15.99,30.99,medium,low,9,namesilo,,,29/09/2026 04:37
 a76d4839-9dcd-42f5-b512-39e4d9e0b5f6,agromania.tips,available,12.98,42.48,medium,low,9,namecheap,,,17/09/2026 19:38
 c03ff908-7cc6-4769-b467-c4f5275a90bf,carlo.tips,available,15.99,30.99,medium,low,5,namesilo,,,28/09/2026 08:41
 4cf1c05b-0391-4b60-9cde-ff3c83613bac,celtic.tips,available,12.98,42.48,high,low,6,namecheap,,,11/08/2026 23:38
 ba627854-1afb-4894-a3d1-ad7f38af9f70,converge.tips,available,14.99,,high,low,8,name.com,,,
-223c664d-6115-466f-9eec-8a8c6d102706,curfew.tips,available,12.98,42.48,medium,low,6,namecheap,,,24/09/2026 20:27
+223c664d-6115-466f-9eec-8a8c6d102706,curfew.tips,available,12.98,42.48,high,low,6,namecheap,,,24/09/2026 20:27
 4cd0ff3a-fbb5-4d2f-915a-445e84c3cf36,toady.tips,available,15.99,30.99,medium,low,5,namesilo,,,20/09/2026 15:35
 538f4919-6727-49eb-aeb7-4dee5eb8cbaa,mahmoud.tips,available,15.99,30.99,medium,low,7,namesilo,,,29/09/2026 04:11
 cd6a295b-dced-4516-a573-8cc87b7aef64,concentrate.tips,available,15.99,30.99,high,low,11,namesilo,,,26/09/2026 00:53
 81ca8cca-2636-4e93-8800-b596d278c6cb,ambler.tips,available,15.99,30.99,medium,low,6,namesilo,,,18/09/2026 17:07
 fb4799e5-61f5-4d96-a8c1-25158dd9642f,amino.tips,available,12.98,42.48,high,low,5,namecheap,,,
 9b4f0691-419a-4a1d-99ad-f962f41fac20,biota.tips,available,12.98,42.48,high,low,5,namecheap,,,23/09/2026 19:05
+7465e9f4-f6e4-40bc-ae21-42c8824bc759,judea.tips,available,15,,medium,low,5,unstoppable,,,29/09/2026 07:23
 193c5684-b7b6-4dfa-add1-c408605ea90a,turkic.tips,available,12.98,42.48,medium,low,6,namecheap,,,11/09/2026 21:14
 f186e557-029c-4e9a-867a-6999fcdd6316,advection.tips,available,15.99,30.99,medium,low,9,namesilo,,,17/09/2026 10:31
 695efacc-48ef-4c00-8ff4-0e64a4f6ad4a,humanities.tips,available,11.59,25.04,high,low,10,spaceship,,,28/09/2026 22:20
+2def603d-9e43-4e25-ae6c-c8293c82e4b9,herring.tips,available,8.24,25.23,high,low,7,porkbun,,,30/09/2026 01:03
 eb460536-a4a2-4f01-a744-0b5a7cef0bde,locomotive.tips,available,12.98,42.48,high,low,10,namecheap,,,24/08/2026 08:48
 6e2147d9-1802-4a5a-a8f6-48ba4735055b,stringent.tips,available,12.98,42.48,medium,low,9,namecheap,,,10/09/2026 22:40
 425c4888-86dd-4f8b-af12-8b33399f5d49,fellowman.tips,available,15.99,30.99,medium,low,10,namesilo,,,21/09/2026 03:03
@@ -25,15 +28,17 @@ c4ded79f-2754-4d1e-8154-19591f21ff98,persistent.tips,available,12.98,42.48,high,
 c5a31453-aa51-40fa-883a-b73ee35b1ce4,chest.tips,available,12.98,42.48,high,low,5,namecheap,,,24/09/2026 10:14
 dc777c58-1783-4a86-8c29-3c8cb302c75f,federalist.tips,available,24.2,24.2,medium,low,10,cloudflare,,,28/09/2026 19:11
 396984a3-f1f8-4566-bb66-f5a06c526500,robbins.tips,available,24.2,24.2,medium,low,7,cloudflare,,,29/09/2026 01:23
+418c677a-693e-419c-8241-2080a4e4017b,cultivators.tips,available,11.59,25.04,medium,low,11,spaceship,,,30/09/2026 00:43
 a8082b66-a1b4-490e-847c-99eea3ee3e69,broadwise.tips,available,12.98,42.48,medium,low,9,namecheap,,,14/09/2026 01:26
+4fec1f39-39a2-4758-ada8-8d06fcfa0ae3,inflammatory.tips,available,24.2,24.2,medium,low,12,cloudflare,,,29/09/2026 21:18
 66373dc2-2dce-431e-9eb4-758650e77021,sumbody.tips,available,14.99,,low,low,7,name.com,,,
 ea462ba2-cd19-400c-b464-125a7f10fa5f,parhelic.tips,available,12.98,42.48,medium,low,8,namecheap,,,08/09/2026 01:31
-d035b3c3-a918-4212-a3f0-270a251dea33,phases.tips,available,15.99,30.99,medium,low,6,namesilo,,,18/09/2026 14:38
+d035b3c3-a918-4212-a3f0-270a251dea33,phases.tips,available,15.99,30.99,high,low,6,namesilo,,,18/09/2026 14:38
 931807a6-bf0e-486a-ab56-4fa1faea4fdd,corbett.tips,available,15.99,30.99,high,low,7,namesilo,,,27/09/2026 03:35
 478f15ed-ac41-4918-9045-08f8463d9778,movement.tips,available,15.99,30.99,high,low,8,namesilo,,,28/09/2026 21:51
 63393145-786d-4e8e-8671-db416b38df41,colorado.tips,available,12.98,42.48,high,low,8,namecheap,,,24/09/2026 13:30
 790dbadb-100a-4866-ab25-ccb92f3505f7,firmament.tips,available,12.98,42.48,high,low,9,namecheap,,,16/08/2026 20:58
-1a7fdc2f-1bb9-4c5d-87ac-d304710c6085,farsighted.tips,available,12.98,42.48,medium,low,10,namecheap,,,17/08/2026 22:41
+1a7fdc2f-1bb9-4c5d-87ac-d304710c6085,farsighted.tips,available,12.98,42.48,high,low,10,namecheap,,,17/08/2026 22:41
 9cc6d9be-6d1f-4cb8-9ccf-07f19bbf16c1,viscous.tips,available,12.98,42.48,high,low,7,namecheap,,,20/08/2026 15:25
 1a540d93-e3c5-480c-bf09-f4d0f53a836c,slew.tips,available,12.98,42.48,high,low,4,namecheap,,,25/08/2026 00:42
 510ddbc0-416d-42ec-91d7-afff1c130b56,kurds.tips,available,24.2,24.2,medium,low,5,cloudflare,,,28/09/2026 05:10
@@ -41,32 +46,36 @@ a46f92f2-833e-457d-acc2-41a4efde6926,tenting.tips,available,15.99,30.99,high,low
 e5d4fdec-69e5-4c4f-adb6-fe95c2a1a4ef,franklin.tips,available,15.99,30.99,high,low,8,namesilo,,,23/09/2026 08:17
 7925fc0c-48fd-461e-85da-f186e80b8187,spiffy.tips,available,14.99,39.99,high,low,6,name.com,,,13/08/2026 17:36
 cfd8fa65-08c8-4e2b-8299-99c30bf5b234,agreed.tips,available,15.99,30.99,high,low,6,namesilo,,,21/09/2026 23:21
-0d30511d-29ce-4f6f-97ee-90a129be8c96,sequester.tips,available,12.98,42.48,medium,low,9,namecheap,,,12/08/2026 21:06
+0d30511d-29ce-4f6f-97ee-90a129be8c96,sequester.tips,available,12.98,42.48,high,low,9,namecheap,,,12/08/2026 21:06
 02a819bc-f722-4ee1-952c-a506a7f32f00,vent.tips,available,14.99,,high,low,4,name.com,,,
 d24276d0-afe5-4501-95ce-ad7913ba7a74,pentagon.tips,available,11.59,25.04,high,low,8,spaceship,,,28/09/2026 06:34
 52c9653c-b0cd-443b-9b72-6934f257152d,snug.tips,available,12.98,42.48,high,low,4,namecheap,,,12/08/2026 12:11
 069403bb-c8c0-4dee-ba98-75a1e7214ac4,achieved.tips,available,8.24,25.9,high,low,8,dynadot,,,28/09/2026 12:45
 e5f491fc-33ed-406e-95d6-98a2a94f7c31,ended.tips,available,12.98,42.48,high,low,5,namecheap,,,
-bb658d8e-fe76-4b6e-8459-5099d3214cdb,heroin.tips,available,15.99,30.99,medium,low,6,namesilo,,,24/09/2026 22:03
+bb658d8e-fe76-4b6e-8459-5099d3214cdb,heroin.tips,available,15.99,30.99,high,low,6,namesilo,,,24/09/2026 22:03
 bb64acb3-aa4b-4965-9cca-04b716af6e78,anacardium.tips,available,15.99,30.99,medium,low,10,namesilo,,,19/09/2026 00:59
-1e2f2509-0359-4027-8365-b0260b6d9593,details.tips,available,14.99,,high,low,7,name.com,,,
+1e2f2509-0359-4027-8365-b0260b6d9593,details.tips,available,11.59,25.04,high,low,7,spaceship,,,29/09/2026 14:12
 7fe60d7f-4758-4e60-bc3d-2a00f542877c,constructive.tips,available,14.99,,high,low,12,name.com,,,
 fd047111-6fa2-479d-8bcc-37921a5d2263,straight.tips,available,12.98,42.48,high,low,8,namecheap,,,14/08/2026 08:46
 77a31143-b240-4b1f-8eff-8b469a0ec67f,gaylord.tips,available,15.99,30.99,high,low,7,namesilo,,,29/09/2026 03:38
+63b23f4c-2853-4222-acde-5b50589add2b,sank.tips,available,11.59,25.04,medium,low,4,spaceship,,,29/09/2026 16:38
 f8dcf895-93c9-4a70-b64b-40f975b854ba,braggart.tips,available,12.98,42.48,medium,low,8,namecheap,,,11/08/2026 01:16
 5e40f938-faaa-469a-a4b7-713badf3ea71,endogamous.tips,available,12.98,42.48,medium,low,10,namecheap,,,17/08/2026 01:10
 800372d8-bfbf-4e70-9b9a-85a1b1b2f41e,jinxed.tips,available,12.98,42.48,medium,low,6,namecheap,,,21/08/2026 07:53
 3d26f80f-eb9a-4025-aec9-6aa1c665e5ea,bivouac.tips,available,12.98,42.48,medium,low,7,namecheap,,,11/08/2026 15:54
 e9a20b7b-4f94-4825-b432-18b20cdc0d97,messages.tips,available,14.99,39.99,high,low,8,name.com,,,18/09/2026 22:11
 3b1dbd18-b879-481a-aa88-5c6c34a2b839,debased.tips,available,12.98,42.48,medium,low,7,namecheap,,,
+cde2a8ac-cb49-4408-a3fc-0901155049d8,hezbollah.tips,available,11.59,25.04,medium,low,9,spaceship,,,29/09/2026 07:16
 c229c2f7-b89d-4659-bde7-ad0e5e455acd,soon.tips,available,15.99,30.99,high,low,4,namesilo,,,28/09/2026 13:25
 aa0a8292-0d3e-4333-a5eb-e766d77630b2,sublunary.tips,available,12.98,42.48,medium,low,9,namecheap,,,12/08/2026 08:28
 7b64de4d-ef04-4c3e-a656-1ae82ff2efff,pole.tips,available,15.99,30.99,high,low,4,namesilo,,,24/09/2026 13:25
+e8424d35-8221-47f8-9a66-fa3b1b3016be,narragansett.tips,available,24.2,24.2,high,low,12,cloudflare,,,29/09/2026 15:38
 7e70c773-c2ae-4ee2-83e7-13539fe9c88a,cocksure.tips,available,12.98,42.48,medium,low,8,namecheap,,,12/08/2026 15:00
-91eb31db-796d-4f36-bd82-a480b9bcae04,northerner.tips,available,12.98,42.48,medium,low,10,namecheap,,,13/09/2026 14:16
+91eb31db-796d-4f36-bd82-a480b9bcae04,northerner.tips,available,12.98,42.48,high,low,10,namecheap,,,13/09/2026 14:16
 7dfc2720-2f1e-41bb-b1a1-3411ea97dd39,quickly.tips,available,12.98,42.48,high,low,7,namecheap,,,27/09/2026 09:22
 6c64a536-dc6a-4540-9c15-b6ec5fb5f9d2,maj.tips,available,12.98,42.48,high,low,3,namecheap,,,27/09/2026 02:37
 bba84951-5e4f-4840-bd4e-690480a154ed,boethius.tips,available,15.99,30.99,medium,low,8,namesilo,,,19/09/2026 08:26
+436e3c50-363e-4782-8468-d32e69eb1660,modification.tips,available,15.99,30.99,high,low,12,namesilo,,,29/09/2026 22:49
 444baf53-3f70-44ee-a6b1-355d2e849474,killer.tips,available,15.99,30.99,high,low,6,namesilo,,,24/09/2026 13:14
 c87dde65-8d7a-45b2-988f-980aac885aea,limbic.tips,available,12.98,42.48,medium,low,6,namecheap,,,23/08/2026 11:49
 498bb3e0-436e-42e9-a22c-0726e656a0f1,elsewhere.tips,available,11.59,25.04,high,low,9,spaceship,,,28/09/2026 14:40
@@ -74,15 +83,17 @@ a08b10da-cc8f-47a8-a7cf-5e5ceb010ba6,anthropoid.tips,available,12.98,42.48,mediu
 595a6bb2-3410-4273-a134-21ca23c01d4d,salisbury.tips,available,15.99,30.99,high,low,9,namesilo,,,24/09/2026 12:37
 43641561-98ff-42bc-a1c6-b8a9af58e2c7,paced.tips,available,15.99,30.99,medium,low,5,namesilo,,,18/09/2026 10:44
 7fbd6fc1-6eb5-4ed5-8f63-b609adcd93f6,reached.tips,available,12.98,42.48,medium,low,7,namecheap,,,17/09/2026 19:16
-e220adde-839a-48d1-aabe-35eac1047422,dubious.tips,available,12.98,42.48,medium,low,7,namecheap,,,14/08/2026 16:57
-e96a11d0-5ae1-4123-936b-043eb9d8aa55,amaranth.tips,available,15.99,30.99,medium,low,8,namesilo,,,18/09/2026 15:50
+e220adde-839a-48d1-aabe-35eac1047422,dubious.tips,available,12.98,42.48,high,low,7,namecheap,,,14/08/2026 16:57
+e96a11d0-5ae1-4123-936b-043eb9d8aa55,amaranth.tips,available,15.99,30.99,high,low,8,namesilo,,,18/09/2026 15:50
 4aa8e557-0ffb-44b3-9474-5c3e30b4d54d,circinate.tips,available,12.98,42.48,high,low,9,namecheap,,,
 ef3c851d-b522-4a52-8cd7-970070252ab5,guile.tips,available,12.98,42.48,medium,low,5,namecheap,,,13/08/2026 10:41
 d439efbc-f464-45d9-81ee-8a50f148806a,outmoded.tips,available,12.98,42.48,medium,low,8,namecheap,,,14/08/2026 01:15
 2335f13e-8421-48f1-9a87-d2b7ac44aaff,dotty.tips,available,12.98,42.48,medium,low,5,namecheap,,,06/08/2026 20:55
 0562104d-e108-4581-9fa5-353876a83bbb,professionals.tips,available,15.99,30.99,high,low,13,namesilo,,,28/09/2026 12:40
+ba9ca795-c460-4828-acf3-dfef9c3b928e,renting.tips,available,8.24,25.9,high,low,7,dynadot,,,29/09/2026 13:46
 ca68fd35-47bc-42c6-b4d3-f774f58ab92a,graceless.tips,available,12.98,42.48,medium,low,9,namecheap,,,18/08/2026 20:43
 f89d5b2e-0909-49bf-a035-08be0fff72de,bowl.tips,available,15.99,30.99,high,low,4,namesilo,,,24/09/2026 07:38
+c770a576-8586-4d05-9e24-a57623425b50,cello.tips,available,8.24,25.9,high,low,5,dynadot,,,30/09/2026 01:01
 8da3892f-f32a-40e1-933c-59520adb4a51,paints.tips,available,15.99,30.99,medium,low,6,namesilo,,,29/09/2026 05:51
 a60243bd-45c7-419c-9498-ae6d3045583e,bump.tips,available,24.2,24.2,high,low,4,cloudflare,,,29/09/2026 05:15
 f9463faf-952c-4731-84ea-e3b82a71ef91,arterial.tips,available,12.98,42.48,high,low,8,namecheap,,,06/08/2026 22:29
@@ -96,16 +107,17 @@ ea27625f-bff6-4aab-8501-011ac9b3f455,susquehanna.tips,available,15.99,30.99,medi
 be8a563e-6cd0-4ff9-824c-d65b32e2ed6e,vicarious.tips,available,12.98,42.48,medium,low,9,namecheap,,,13/09/2026 05:15
 1e8d9199-a5ba-4d5a-8061-3574ef97d1f4,erasable.tips,available,12.98,42.48,medium,low,8,namecheap,,,15/08/2026 14:16
 2c4e3977-b8a0-4dab-b8cb-ae0e65ceae09,revelation.tips,available,15.99,30.99,high,low,10,namesilo,,,27/09/2026 13:50
-797d9761-b17b-47bc-aa9e-1cc0efb8d0ea,shamanism.tips,available,12.98,42.48,medium,low,9,namecheap,,,20/09/2026 14:05
+797d9761-b17b-47bc-aa9e-1cc0efb8d0ea,shamanism.tips,available,12.98,42.48,high,low,9,namecheap,,,20/09/2026 14:05
 90200a04-9991-43e6-849c-5fc08f41ac40,wall.tips,available,11.59,25.04,high,low,4,spaceship,,,28/09/2026 08:42
 0698e492-f53d-4d04-9627-b4ba3e9fedf5,hardbound.tips,available,12.98,42.48,medium,low,9,namecheap,,,21/08/2026 00:42
 e60110d8-e5c4-41ea-8542-1ea745ad50a6,swelled.tips,available,12.98,42.48,medium,low,7,namecheap,,,11/09/2026 05:38
 d395f5d2-d997-408e-9dd0-32d97b834c70,cloning.tips,available,15.99,30.99,high,low,7,namesilo,,,24/09/2026 15:52
 7bfd7e6d-7e1e-4845-9750-d09949dc65c7,grub.tips,available,12.98,42.48,high,low,4,namecheap,,,11/08/2026 09:30
-665348e8-1b55-406f-90ca-30be97a85441,annie.tips,available,12.98,42.48,medium,low,5,namecheap,,,25/09/2026 18:17
+665348e8-1b55-406f-90ca-30be97a85441,annie.tips,available,12.98,42.48,high,low,5,namecheap,,,25/09/2026 18:17
 64fbbae8-4b51-4eda-88f4-2af0dced9453,prosily.tips,available,12.98,42.48,low,low,7,namecheap,,,15/09/2026 21:46
 09b751f2-7b5a-4537-b856-ef67a2f18398,meredith.tips,available,12.98,42.48,high,low,8,namecheap,,,25/09/2026 06:29
 dcddf9fe-cf9f-4400-b064-5e7822a7e98f,agronomist.tips,available,12.98,42.48,medium,low,10,namecheap,,,17/09/2026 19:41
+8b8e833b-00ca-483e-9c37-c343d01ad62a,vanishing.tips,available,24.2,24.2,medium,low,9,cloudflare,,,29/09/2026 20:33
 8f9b5a6c-ea7b-47cf-a7a9-817863a14a05,arnhem.tips,available,15.99,30.99,medium,low,6,namesilo,,,20/09/2026 08:09
 a029110b-ffab-4ed3-a4f2-a9cb508ac1d2,sarah.tips,available,12.98,42.48,high,low,5,namecheap,,,25/09/2026 10:34
 1e66355e-980d-468b-b434-7206c28b5e8d,andantino.tips,available,12.98,42.48,medium,low,9,namecheap,,,
@@ -118,8 +130,9 @@ ba28c0cf-5855-4622-844d-926b22d8ecaf,beaded.tips,available,12.98,42.48,medium,lo
 63d4c62d-3a2e-4c7e-9947-de93d0fb1bfc,donald.tips,available,12.98,42.48,high,low,6,namecheap,,,25/09/2026 18:48
 e19b6e8b-961d-4db7-b495-b0afd55820e8,cumulous.tips,available,12.98,42.48,medium,low,8,namecheap,,,13/08/2026 10:30
 86804287-3120-4ca4-b397-61b5a783ba18,germicidal.tips,available,12.98,42.48,medium,low,10,namecheap,,,08/08/2026 07:07
-05186a9c-93cb-4d05-b1d1-16276aea5f32,tomato.tips,resell,,,high,low,6,"GoDaddy.com, LLC",24/03/2014 19:29,24/03/2027 19:29,26/09/2026 09:40
+05186a9c-93cb-4d05-b1d1-16276aea5f32,tomato.tips,resell,,,high,low,6,"GoDaddy.com, LLC",24/03/2014 19:29,24/03/2027 19:29,30/09/2026 03:31
 2581b52c-0888-46d5-a246-704f4d1459dc,intensify.tips,available,12.98,42.48,high,low,9,namecheap,,,12/08/2026 19:29
+c9a5aa5a-6cc3-4eca-97c2-6724d21c5713,lars.tips,available,8.24,25.23,high,low,4,porkbun,,,29/09/2026 09:31
 53e85008-4b2a-453e-a846-04bcf8473f94,staid.tips,available,12.98,42.48,medium,low,5,namecheap,,,10/09/2026 01:34
 c7819568-ff6f-43f3-a403-6da8818bb1a0,fungoid.tips,available,12.98,42.48,medium,low,7,namecheap,,,18/08/2026 18:37
 239eb354-ae0a-42c3-8765-22f7648210db,focal.tips,available,12.98,42.48,high,low,5,namecheap,,,18/08/2026 09:44
@@ -133,13 +146,15 @@ a52df324-3476-4930-ad40-6d05b54e762b,sibilant.tips,available,12.98,42.48,medium,
 ce8e65d7-3fec-4d5b-960a-93dab582a28d,leech.tips,available,15.99,30.99,medium,low,5,namesilo,,,24/09/2026 06:16
 bf8fad07-c3b1-402d-b4d7-3f105725b818,hypothesis.tips,available,15.99,30.99,high,low,10,namesilo,,,29/09/2026 02:33
 bc45f9b1-dd08-4c07-ad9e-e585ac8f90c6,foggy.tips,available,12.98,42.48,medium,low,5,namecheap,,,10/08/2026 16:21
+812bece2-63d0-4bed-b977-27d228156050,aro.tips,available,15.99,30.99,high,low,3,namesilo,,,30/09/2026 03:42
 a8e5f7b8-99dc-47a7-b19a-fe7ee6693e05,factory.tips,available,12.98,42.48,high,low,7,namecheap,,,25/09/2026 22:41
+7c5f0ca4-2dad-4a4b-9bf4-05a85d071e8b,everlasting.tips,available,11.59,25.04,high,low,11,spaceship,,,29/09/2026 08:43
 3f675382-3b2c-4d53-b987-744cadc6a992,ajaia.tips,available,15.99,30.99,medium,low,5,namesilo,,,17/09/2026 23:39
 e29136c7-4fbb-4400-9912-9a4810268cd5,mack.tips,available,21.99,53.99,high,low,4,godaddy,,,28/09/2026 02:18
 3de2c9a6-cf9d-4a30-a9cf-05af6259e544,longroot.tips,available,15.99,30.99,medium,low,8,namesilo,,,20/09/2026 03:40
 30045861-c05f-4d79-a9cb-eac69f2c7e93,mysterious.tips,available,15.99,30.99,high,low,10,namesilo,,,24/09/2026 03:42
 c3667a95-ff4b-4cba-b200-460e18726e05,vulpine.tips,available,12.98,42.48,medium,low,7,namecheap,,,13/09/2026 07:26
-9b3ea63f-1637-4e76-a76a-56dc27932739,dextrous.tips,available,12.98,42.48,medium,low,8,namecheap,,,13/08/2026 23:53
+9b3ea63f-1637-4e76-a76a-56dc27932739,dextrous.tips,available,12.98,42.48,high,low,8,namecheap,,,13/08/2026 23:53
 07ec4b58-7107-40ca-b3eb-17544058ea73,thrashing.tips,available,12.98,42.48,medium,low,9,namecheap,,,13/09/2026 07:54
 8a6d1349-af72-4d47-9ad0-39038c1c90ea,aug.tips,available,12.98,42.48,high,low,3,namecheap,,,07/08/2026 17:10
 314d5474-e53b-470a-95af-ca07337df974,extinct.tips,available,12.98,42.48,high,low,7,namecheap,,,17/08/2026 19:11
@@ -152,7 +167,8 @@ c04b6978-b365-4153-b6e6-de47625acfcb,throat.tips,available,15.99,30.99,high,low,
 fc02c72c-c905-449b-992d-e746be82a40a,invest.tips,resell,,,high,medium,6,,,,28/09/2026 02:00
 9faba1ec-f594-42d1-8db5-027fd196d3c7,calculator.tips,resell,,,high,medium,10,"Sav.com, LLC - 3",22/06/2026 15:15,22/06/2027 15:15,26/09/2026 04:43
 d4884dfd-04d1-4dfd-b231-bb0a5997917f,profoundly.tips,available,12.98,42.48,high,low,10,namecheap,,,14/09/2026 11:16
-c651f25f-84db-4fd2-b14c-462ba8056f40,chr.tips,available,24.2,24.2,medium,low,3,cloudflare,,,28/09/2026 12:07
+c651f25f-84db-4fd2-b14c-462ba8056f40,chr.tips,available,24.2,24.2,high,low,3,cloudflare,,,28/09/2026 12:07
+d82c0e29-0f14-4c73-95d6-56fc7fe4d7ee,wasp.tips,available,24.2,24.2,high,low,4,cloudflare,,,29/09/2026 14:06
 890ef162-ac7c-41d2-b55f-f585effe521e,kemp.tips,available,15.99,30.99,medium,low,4,namesilo,,,29/09/2026 02:56
 fc36e397-edf1-4edb-8cb6-0766d6e08fbf,hoarfrost.tips,available,12.98,42.48,medium,low,9,namecheap,,,21/08/2026 10:07
 e4663834-b5de-4200-9fa0-89894655678c,myself.tips,available,15.99,30.99,high,low,6,namesilo,,,25/09/2026 12:53
@@ -172,7 +188,7 @@ cee0f45a-7c25-4777-b53a-3ddba9963c4c,kookie.tips,available,12.98,42.48,medium,lo
 896416e2-1ee6-4fbc-a45b-369be039c6be,herds.tips,available,12.98,42.48,medium,low,5,namecheap,,,19/09/2026 20:40
 6f376d3d-7acf-4110-9c4a-9e052ef040c8,completed.tips,available,15.99,30.99,high,low,9,namesilo,,,23/09/2026 17:22
 7580ee71-e4a1-4858-8d5a-682f90510c92,cloudless.tips,available,12.98,42.48,high,low,9,namecheap,,,12/08/2026 12:32
-71f7fb7a-2e00-4c4e-ad5a-b79dbcc1592f,custodial.tips,available,12.98,42.48,medium,low,9,namecheap,,,13/08/2026 12:19
+71f7fb7a-2e00-4c4e-ad5a-b79dbcc1592f,custodial.tips,available,12.98,42.48,high,low,9,namecheap,,,13/08/2026 12:19
 1c944b52-6941-4ab7-b0ee-7faf465eadc1,wakefield.tips,available,15.99,30.99,high,low,9,namesilo,,,25/09/2026 12:26
 2a854824-22b8-4176-ba05-ae6360c205ea,grieving.tips,available,12.98,42.48,medium,low,8,namecheap,,,09/08/2026 15:07
 95135c30-c0ca-458d-b3fe-9c84608968fc,segmented.tips,available,12.98,42.48,medium,low,9,namecheap,,,24/08/2026 21:43
@@ -182,22 +198,26 @@ cee0f45a-7c25-4777-b53a-3ddba9963c4c,kookie.tips,available,12.98,42.48,medium,lo
 847df529-0efe-45f8-9ad7-2c3bd9c57a96,lxii.tips,available,12.98,42.48,medium,low,4,namecheap,,,
 2de6375f-2c2b-418c-9f94-4898593c01fb,fans.tips,available,12.98,42.48,high,low,4,namecheap,,,25/09/2026 21:32
 326331d0-7064-454a-8d06-cdcd68bea771,establishment.tips,available,14.99,,medium,low,13,name.com,,,
+3721dd2f-fb13-4481-a039-cd8aabcb675f,exceeded.tips,available,8.24,25.9,medium,low,8,dynadot,,,30/09/2026 00:20
 61ce4022-bc8c-4e02-a8d0-ee3e29c0de7f,another.tips,available,14.99,,high,low,7,name.com,,,
 a139e153-6831-4908-9170-c51e1ae028c9,keene.tips,available,11.59,25.04,high,low,5,spaceship,,,28/09/2026 03:36
 710bcb3a-d2cc-4a48-a63e-e06eeba12d02,hemal.tips,available,12.98,42.48,medium,low,5,namecheap,,,20/08/2026 21:41
-d3edc240-9156-4038-860d-326ae06ba60b,debbie.tips,available,12.98,42.48,medium,low,6,namecheap,,,27/09/2026 07:32
+d3edc240-9156-4038-860d-326ae06ba60b,debbie.tips,available,12.98,42.48,high,low,6,namecheap,,,27/09/2026 07:32
 0b380d8b-9e05-43b2-91e7-27f329da3504,frivolous.tips,available,12.98,42.48,medium,low,9,namecheap,,,18/08/2026 16:04
 d5fea6f8-4b4a-409d-9690-775059d07ce6,refusal.tips,available,12.98,42.48,medium,low,7,namecheap,,,29/09/2026 02:01
+71f6485a-4e3a-41be-b075-744eab22a308,fatima.tips,available,24.2,24.2,high,low,6,cloudflare,,,29/09/2026 06:52
 6f1f0ece-521d-4446-9dfb-1d67123c79f8,likely.tips,available,15.99,30.99,high,low,6,namesilo,,,25/09/2026 13:46
 d6ed997a-9dae-412d-bc60-8adeeb5cd983,check.tips,resell,,,high,medium,5,"Sav.com, LLC - 9",25/04/2026 15:16,25/04/2027 15:16,26/09/2026 04:53
 e1496b8b-59be-4271-a82e-8ce8c7785f91,testator.tips,available,12.98,42.48,medium,low,8,namecheap,,,11/09/2026 12:02
 ec84aeab-c74d-4932-ac78-639d35d76e7f,ammonium.tips,available,15.99,30.99,high,low,8,namesilo,,,18/09/2026 22:10
 36aea2b2-7088-427b-94d2-0e3f2fa96c8b,shoeless.tips,available,12.98,42.48,medium,low,8,namecheap,,,08/08/2026 19:04
-872b3f31-1cf2-495a-8fa3-b3beb9cd26c6,appointed.tips,available,12.98,42.48,medium,low,9,namecheap,,,06/08/2026 07:21
+dd79030b-3455-4bf3-bc5c-a8fd4218f324,singh.tips,available,15.99,30.99,high,low,5,namesilo,,,29/09/2026 14:38
+872b3f31-1cf2-495a-8fa3-b3beb9cd26c6,appointed.tips,available,12.98,42.48,high,low,9,namecheap,,,06/08/2026 07:21
 6acedd19-ee49-499b-b261-33a79b2ada38,alluring.tips,available,15.99,30.99,high,low,8,namesilo,,,22/09/2026 01:34
+3fceb415-249e-4eb4-9933-04cd9fc9e34f,conceive.tips,available,24.2,24.2,high,low,8,cloudflare,,,29/09/2026 14:04
 7fc161fe-adf2-48e9-9928-cf3ddbd31225,drugged.tips,available,12.98,42.48,medium,low,7,namecheap,,,14/08/2026 20:06
 0e1f78f4-7e74-4c07-a01f-ff8bed265360,undoable.tips,available,12.98,42.48,medium,low,8,namecheap,,,11/09/2026 23:41
-ccfadc75-0be6-4f91-b62e-708d806579f8,citric.tips,available,12.98,42.48,medium,low,6,namecheap,,,12/08/2026 08:54
+ccfadc75-0be6-4f91-b62e-708d806579f8,citric.tips,available,12.98,42.48,high,low,6,namecheap,,,12/08/2026 08:54
 8cd93a2e-1992-4ae3-8063-5f9f7b89ac63,identify.tips,available,15.99,30.99,high,low,8,namesilo,,,25/09/2026 12:36
 ed81385b-96f9-445b-be09-ee4ad83f5164,pluton.tips,available,15.99,30.99,medium,low,6,namesilo,,,22/09/2026 13:46
 ae7c396a-5392-42db-9111-7e009919e281,whirr.tips,available,12.98,42.48,medium,low,5,namecheap,,,13/09/2026 11:31
@@ -207,10 +227,10 @@ fd6adcfe-fa44-4ac3-9b13-1dfecfb35e84,unopened.tips,available,12.98,42.48,medium,
 02a73c1e-f425-45d1-8024-2b16e4a749ad,michael.tips,available,15.99,30.99,high,medium,7,namesilo,,,25/09/2026 09:21
 e2a26b25-dbd1-4c97-9593-e8db3d9c039f,begging.tips,available,15.99,30.99,medium,low,7,namesilo,,,23/09/2026 02:16
 09b27c8f-39c8-4f8e-8ae2-b7c7b11a40e9,accretion.tips,available,15.99,30.99,high,low,9,namesilo,,,16/09/2026 23:14
-4cb055b3-7960-4c0d-b1ec-7e254c91cd47,rodriguez.tips,available,24.2,24.2,medium,low,9,cloudflare,,,28/09/2026 22:21
+4cb055b3-7960-4c0d-b1ec-7e254c91cd47,rodriguez.tips,available,24.2,24.2,high,low,9,cloudflare,,,28/09/2026 22:21
 5ab8f2f2-d9f0-4c6c-aaf1-0a9e4dd269b1,magnum.tips,available,12.98,42.48,high,low,6,namecheap,,,28/09/2026 06:19
 7092fe77-8eff-4e0c-af03-d8e618dd7603,titivate.tips,available,12.98,42.48,medium,low,8,namecheap,,,10/09/2026 16:59
-b4acb773-586a-42b5-a915-3f8b61ef803f,decisively.tips,available,12.98,42.48,medium,low,10,namecheap,,,14/09/2026 11:10
+b4acb773-586a-42b5-a915-3f8b61ef803f,decisively.tips,available,12.98,42.48,high,low,10,namecheap,,,14/09/2026 11:10
 0afd3b0c-a8ba-4876-b6ff-a6086faa2aed,jones.tips,available,15.99,30.99,high,low,5,namesilo,,,25/09/2026 00:23
 e6b32fc1-9d41-4b9f-92ab-c595fe29b142,strand.tips,available,12.98,42.48,high,low,6,namecheap,,,24/08/2026 16:26
 479d9e53-cb36-496a-9ee8-d4b762bb9111,mundane.tips,available,12.98,42.48,high,low,7,namecheap,,,17/08/2026 14:55
@@ -218,13 +238,14 @@ b208a968-1109-4c9f-84f5-b1dbc3b4b080,noteworthy.tips,available,12.98,42.48,high,
 19f5ee36-ea92-4325-b301-ed1cb2d292c1,lallygag.tips,available,12.98,42.48,medium,low,8,namecheap,,,11/09/2026 08:33
 e2bfa74b-5028-4315-afc2-5ea72c58e01c,damnably.tips,available,14.99,39.99,low,low,8,name.com,,,13/08/2026 16:35
 ca01b435-15ef-47af-a9f0-25e7c1569a88,zippo.tips,available,12.98,42.48,high,low,5,namecheap,,,03/09/2026 22:45
-e995ab4b-8fc7-4df9-9c84-a316bf2e3d3c,adjuvant.tips,available,12.98,42.48,medium,low,8,namecheap,,,
-9e8e6a47-b133-4ebd-8098-93fc7940b6c3,laudable.tips,available,12.98,42.48,medium,low,8,namecheap,,,06/08/2026 07:01
+e995ab4b-8fc7-4df9-9c84-a316bf2e3d3c,adjuvant.tips,available,12.98,42.48,high,low,8,namecheap,,,
+9e8e6a47-b133-4ebd-8098-93fc7940b6c3,laudable.tips,available,12.98,42.48,high,low,8,namecheap,,,06/08/2026 07:01
 dddfcfa3-2d58-4d52-9a0d-9f5d6bc0fef8,antiquated.tips,available,12.98,42.48,medium,low,10,namecheap,,,
 3b0a245a-4677-4493-9986-f010119de402,prayer.tips,available,15.99,30.99,high,low,6,namesilo,,,28/09/2026 01:59
 cb5dff32-fe14-4ac9-8347-d8082ecd505d,cruelty.tips,available,12.98,42.48,medium,low,7,namecheap,,,24/09/2026 19:49
 aff3dffc-22c4-4c37-895d-5073e81bba8f,rope.tips,available,15.99,30.99,high,low,4,namesilo,,,25/09/2026 22:52
 3aa1405f-d74f-415d-9133-fe5780f5fb7d,mucky.tips,available,12.98,42.48,medium,low,5,namecheap,,,10/08/2026 17:06
+11af26f4-94e8-45b8-8524-5e2b37879de7,bullshit.tips,available,11.59,25.04,high,low,8,spaceship,,,29/09/2026 11:49
 1e3b27c3-afa5-4108-8f26-fbc84f009491,aural.tips,available,15.99,30.99,high,low,5,namesilo,,,22/09/2026 12:49
 b789bf45-6291-4a91-ae88-fc46cb3b4e16,divorced.tips,available,12.98,42.48,medium,low,8,namecheap,,,14/08/2026 14:01
 dd623f88-523c-470e-afb8-6a43215c2799,amnionic.tips,available,12.98,42.48,medium,low,8,namecheap,,,
@@ -240,6 +261,8 @@ f86bd861-b0c2-458d-a6c6-6b675c00624e,elk.tips,available,15.99,30.99,high,low,3,n
 5723e946-bf7e-4b8c-8e03-982dcd0f3e02,sprawl.tips,available,12.98,42.48,medium,low,6,namecheap,,,10/09/2026 16:41
 b31de276-a9f8-4a6f-a284-ffcb731ce85e,abeyant.tips,available,12.98,42.48,medium,low,7,namecheap,,,
 a04287a3-c1e2-4c07-957d-daf4acf9dc48,cupric.tips,available,12.98,42.48,medium,low,6,namecheap,,,13/08/2026 10:49
+20b4bd80-ac63-4111-9c8b-08d94d570d66,pao.tips,available,11.59,25.04,high,low,3,spaceship,,,29/09/2026 09:17
+14df340c-81db-4806-999e-b0e634104451,resisted.tips,available,8.24,25.9,medium,low,8,dynadot,,,29/09/2026 16:36
 9e67ca5d-7a56-428b-b705-82401f09b572,interbrain.tips,available,15.99,30.99,medium,low,10,namesilo,,,23/09/2026 11:55
 a84745ef-d64a-4941-9cdb-d8540c753c3c,sportive.tips,available,12.98,42.48,medium,low,8,namecheap,,,12/08/2026 18:10
 534c1fad-bb0a-47c2-aa79-02b1c2d242f1,artificer.tips,available,15.99,30.99,high,low,9,namesilo,,,20/09/2026 11:38
@@ -256,44 +279,48 @@ a28ff283-2b4b-4841-9ed9-77ec8f02650f,crying.tips,available,15.99,30.99,high,low,
 f6a475bc-433f-4cef-9765-6ed4362dda6b,sensory.tips,available,11.59,25.04,high,low,7,spaceship,,,27/09/2026 20:08
 36e0d4f3-9a59-478b-b6b3-f111ad9529f7,disabled.tips,available,15.99,30.99,high,low,8,namesilo,,,24/09/2026 10:55
 24bdeee7-d472-4ed5-bef4-a72a5377acba,catalan.tips,available,12.98,42.48,high,low,7,namecheap,,,11/08/2026 20:50
+30856904-5cdb-4cc1-9404-95a033bf6a89,silverware.tips,available,24.2,24.2,high,low,10,cloudflare,,,30/09/2026 02:53
 b1b06bff-00cd-4550-b519-420e32e83aa4,topology.tips,available,15.99,30.99,high,low,8,namesilo,,,19/09/2026 01:59
 4de07eb5-4029-4155-a3b4-8dea5fe63f65,macabre.tips,available,12.98,42.48,medium,low,7,namecheap,,,18/08/2026 23:19
 1cbd03ea-c524-454e-8a02-6e95be5059d3,lenses.tips,available,24.2,24.2,medium,low,6,cloudflare,,,29/09/2026 05:38
 f5816591-63b0-4a95-bab0-1c7f2a5e6f14,androgen.tips,available,15.99,30.99,medium,low,8,namesilo,,,19/09/2026 04:53
-d3acd162-8fb2-4cb1-99f5-a069dbeff798,posters.tips,available,14.99,,medium,low,7,name.com,,,
+d3acd162-8fb2-4cb1-99f5-a069dbeff798,posters.tips,available,14.99,,high,low,7,name.com,,,
 20d8526c-ebd3-4cb8-8cbc-6bfd0c07b0a0,technically.tips,available,15.99,30.99,high,low,11,namesilo,,,19/09/2026 04:54
 2a68b0c2-a604-4a87-aeb8-5747449e5f1e,renew.tips,available,12.98,42.48,high,low,5,namecheap,,,19/09/2026 08:23
 97b0c61f-de56-407c-ad65-f51dc0973c7a,randoms.tips,available,15.99,30.99,low,low,7,namesilo,,,19/09/2026 22:13
 efc528e0-7582-4670-bbbf-9548380c74a3,teller.tips,available,15.99,30.99,high,low,6,namesilo,,,22/09/2026 02:23
 9cde2cd5-1843-417c-a359-b3aefab868f0,lenient.tips,available,12.98,42.48,high,low,7,namecheap,,,22/08/2026 23:46
-ff2e6f1e-e97f-417e-b1f1-29f6a3b0d8b3,mauritian.tips,available,12.98,42.48,medium,low,9,namecheap,,,24/08/2026 17:35
+ff2e6f1e-e97f-417e-b1f1-29f6a3b0d8b3,mauritian.tips,available,12.98,42.48,high,low,9,namecheap,,,24/08/2026 17:35
 43f669de-f5da-467e-b0cc-59d086dc2a53,lang.tips,available,15.99,30.99,high,low,4,namesilo,,,25/09/2026 11:29
 fbfbdbf5-f83c-40ab-b802-22c1869a604f,squeak.tips,available,12.98,42.48,high,low,6,namecheap,,,24/09/2026 15:54
 76f952c3-212f-4f17-8fde-dd482ff63219,expressed.tips,available,12.98,42.48,high,low,9,namecheap,,,17/08/2026 18:26
+2b230ee7-09ea-4571-926b-9895c819bbd3,goddard.tips,available,15.99,30.99,medium,low,7,namesilo,,,30/09/2026 01:46
 faec5f04-ebe8-442b-ae86-dd64439ddfd6,floods.tips,available,12.98,42.48,low,low,6,namecheap,,,18/09/2026 19:03
 da95863a-a44e-413a-8066-400cdcbd2226,treatments.tips,available,15.99,30.99,medium,low,10,namesilo,,,29/09/2026 04:46
 d9c8570b-ea39-4413-9be1-81ce2b370d9e,improving.tips,available,12.98,42.48,high,low,9,namecheap,,,21/08/2026 23:17
 13fe9b4a-432b-49ee-8550-f843c06400e4,systemic.tips,available,12.98,42.48,high,low,8,namecheap,,,11/09/2026 06:46
 f6162b58-a50c-4d2a-a6c9-19179bb06a54,aligned.tips,available,12.98,42.48,high,low,7,namecheap,,,
-4eb8ba88-33ed-4863-9654-37c75a131ea9,watermelon.tips,available,14.99,,high,low,10,name.com,,,
+4eb8ba88-33ed-4863-9654-37c75a131ea9,watermelon.tips,available,15.99,30.99,high,low,10,namesilo,,,29/09/2026 09:31
 694f79c1-075e-4398-a11e-bcf57ba77afa,puts.tips,available,15.99,30.99,medium,low,4,namesilo,,,18/09/2026 14:17
 c90b578d-c97a-41aa-9c8a-74cd47fe4890,oil.tips,available,12.98,42.48,high,low,3,namecheap,,,24/09/2026 02:16
-47b99b5e-e5fc-4b00-963a-318041ee6bcb,tapering.tips,available,12.98,42.48,medium,low,8,namecheap,,,14/08/2026 21:50
+47b99b5e-e5fc-4b00-963a-318041ee6bcb,tapering.tips,available,12.98,42.48,high,low,8,namecheap,,,14/08/2026 21:50
 84c57ce9-a78d-4b11-858d-b0ae31e6f26e,partizan.tips,available,12.98,42.48,high,low,8,namecheap,,,08/09/2026 02:09
 899c4133-167c-4426-bd17-b87df391b50a,coloured.tips,available,12.98,42.48,high,low,8,namecheap,,,22/09/2026 20:29
 21194f16-53e0-4e72-875b-c8449fc85419,angara.tips,available,15.99,30.99,medium,low,6,namesilo,,,19/09/2026 05:44
+db516fec-f607-4503-a0c7-6874571bc177,ormond.tips,available,11.59,25.04,medium,low,6,spaceship,,,29/09/2026 15:48
+73eb7a84-0174-4f08-86f5-b7e83cbed39a,adolf.tips,available,11.59,25.04,medium,low,5,spaceship,,,29/09/2026 23:45
 f0b92eca-8c80-4216-b887-e3bae5b094ea,beheaded.tips,available,12.98,42.48,medium,low,8,namecheap,,,09/08/2026 10:21
-57a1f48d-1f2b-41b3-a8b5-229087721275,colours.tips,available,14.99,,high,low,7,name.com,,,
-7dff13d3-5ce6-4024-8957-39c57396dc2d,praise.tips,available,14.99,,high,low,6,name.com,,,
+57a1f48d-1f2b-41b3-a8b5-229087721275,colours.tips,available,15.99,30.99,high,low,7,namesilo,,,29/09/2026 10:20
+7dff13d3-5ce6-4024-8957-39c57396dc2d,praise.tips,available,15.99,30.99,high,low,6,namesilo,,,29/09/2026 10:58
 3390ca54-a1cc-4cdb-a415-f6315fe9b0f0,hound.tips,available,15.99,30.99,high,low,5,namesilo,,,24/09/2026 02:24
 a12449ac-781b-4139-b954-a026a4a9c8d2,odorous.tips,available,12.98,42.48,medium,low,7,namecheap,,,04/09/2026 00:54
-59d5435c-fe11-46e1-9df5-76c5d69ced68,bor.tips,available,15,,medium,low,3,unstoppable,,,29/09/2026 02:55
+59d5435c-fe11-46e1-9df5-76c5d69ced68,bor.tips,available,15,,high,low,3,unstoppable,,,29/09/2026 02:55
 79c40aac-6e00-4089-b541-5e1255c152cb,remark.tips,available,24.2,24.2,high,low,6,cloudflare,,,28/09/2026 09:26
 3fe2e97c-bdd0-4632-8a22-f50390093760,creditable.tips,available,12.98,42.48,high,low,10,namecheap,,,13/08/2026 05:54
 f7c96e70-0c51-4618-80e0-e09b27178df6,cecal.tips,available,12.98,42.48,medium,low,5,namecheap,,,11/08/2026 12:54
 4596adb4-65bc-467c-8386-7fc82a490570,unveil.tips,available,14.99,,high,low,6,name.com,,,
 017819ca-026b-4527-ab0a-a18784637f8e,nam.tips,available,8.24,25.9,high,low,3,dynadot,,,28/09/2026 16:26
-7ccd457c-8bc6-4ac3-86a2-44b946df96e3,crank.tips,available,12.98,42.48,medium,low,5,namecheap,,,13/08/2026 04:51
+7ccd457c-8bc6-4ac3-86a2-44b946df96e3,crank.tips,available,12.98,42.48,high,low,5,namecheap,,,13/08/2026 04:51
 a869c308-a949-4d06-b01d-4163c6ec8914,resinous.tips,available,12.98,42.48,medium,low,8,namecheap,,,09/09/2026 15:13
 a1b9b6d7-d2b4-4555-b590-7d9f34886ddd,enlarged.tips,available,15.99,30.99,high,low,8,namesilo,,,22/09/2026 22:37
 0eb4f8fa-2ac1-4756-8802-5337446c7b6e,adhocracy.tips,available,15.99,30.99,medium,low,9,namesilo,,,17/09/2026 08:02
@@ -306,7 +333,8 @@ e4936351-cfc0-4fcb-9dd4-c09e36ee6257,rochelle.tips,available,15.99,30.99,medium,
 54e1d63b-9672-4fae-9952-bbaefa5c8e8d,bonnie.tips,available,12.98,42.48,high,low,6,namecheap,,,10/08/2026 18:47
 0ef467b4-634d-41d7-9df4-3419ddb6f874,limpid.tips,available,12.98,42.48,high,low,6,namecheap,,,13/08/2026 09:41
 d03cc09d-fdf9-4b42-8f70-32ff8c3ba63d,squalid.tips,available,12.98,42.48,medium,low,7,namecheap,,,10/09/2026 14:31
-4d43c90a-90d4-4535-a926-26400d095847,charleston.tips,available,14.99,,high,low,10,name.com,,,
+bf1f804f-1eea-4465-8cee-9a4d9d5338c1,administered.tips,available,15.99,30.99,medium,low,12,namesilo,,,29/09/2026 16:19
+4d43c90a-90d4-4535-a926-26400d095847,charleston.tips,available,11.59,25.04,high,low,10,spaceship,,,29/09/2026 07:20
 7cf3b05f-0546-49a7-b0ef-cbc6e8dcec2d,finnish.tips,available,12.98,42.48,high,low,7,namecheap,,,18/08/2026 05:03
 cddf2414-016c-4874-a65d-f0526de7f6be,balaclava.tips,available,12.98,42.48,medium,low,9,namecheap,,,21/09/2026 20:27
 75eab21c-42fc-467f-b28d-aac857fb2969,translator.tips,available,11.59,25.04,high,low,10,spaceship,,,28/09/2026 19:30
@@ -321,6 +349,7 @@ b24361db-3896-4697-9deb-bc6e8e6462ab,manky.tips,available,12.98,42.48,medium,low
 ac6d52f6-1e40-4263-95f5-ffe7bbd87c33,arrived.tips,available,15.99,30.99,medium,low,7,namesilo,,,17/09/2026 14:03
 de1b37f9-af1d-4629-b38c-e91d85460970,traps.tips,available,15.99,30.99,high,low,5,namesilo,,,20/09/2026 04:06
 3d980cb7-e227-492e-8f30-9bb0f792a533,laser.tips,available,15.99,30.99,high,low,5,namesilo,,,28/09/2026 02:15
+9e9c814d-dfbf-42c3-8756-ab106b35c9b3,llewellyn.tips,available,15.99,30.99,medium,low,9,namesilo,,,29/09/2026 09:48
 6d8eb544-2edc-4f6d-a638-f08f15b2a26f,devilish.tips,available,12.98,42.48,medium,low,8,namecheap,,,14/08/2026 05:06
 d972b71b-0a82-41d8-9e1f-a9cc5b2127e8,critics.tips,available,8.24,25.23,low,low,7,porkbun,,,28/09/2026 18:02
 45b8c9eb-9e50-4b1e-b09e-39f6e697518f,bothersome.tips,available,12.98,42.48,medium,low,10,namecheap,,,
@@ -328,11 +357,12 @@ a26a8f5e-2de9-4aa2-8ea3-166b0f826eb9,bile.tips,available,12.98,42.48,medium,low,
 c54e1de8-4885-40b6-bfa6-dc465d244db1,indate.tips,available,14.99,,medium,low,7,name.com,,,
 a0544775-8d63-4c67-928e-a369f806ddcc,souse.tips,available,12.98,42.48,medium,low,5,namecheap,,,
 3371d278-88e8-4a01-8055-b3f4c79d2728,auger.tips,available,15.99,30.99,medium,low,5,namesilo,,,21/09/2026 03:19
-7f05dd3c-8d16-41d1-928d-482f87af6cce,wayward.tips,available,12.98,42.48,medium,low,7,namecheap,,,13/09/2026 08:49
+603f1314-d27b-4195-922b-4f7e51f201d4,slapped.tips,available,11.59,25.04,low,low,7,spaceship,,,29/09/2026 23:39
+7f05dd3c-8d16-41d1-928d-482f87af6cce,wayward.tips,available,12.98,42.48,high,low,7,namecheap,,,13/09/2026 08:49
 01700799-e47c-49be-ba79-73277910e4a5,exploited.tips,available,12.98,42.48,medium,low,9,namecheap,,,08/09/2026 15:46
 3b4454d1-baff-445d-9b8a-f8314a873c7b,alien.tips,available,,,high,medium,5,,,,
 34dd6281-ff25-4ce1-8b03-4e9f21697207,overlook.tips,available,14.99,,high,low,8,name.com,,,
-8b29554e-3334-4baf-ac2a-b6a2a72285ea,making.tips,available,14.99,,high,low,6,name.com,,,
+8b29554e-3334-4baf-ac2a-b6a2a72285ea,making.tips,available,15.99,30.99,high,low,6,namesilo,,,29/09/2026 14:44
 be2a88d3-66eb-4bfe-81d1-da243bbaa399,tub.tips,available,11.59,25.04,high,low,3,spaceship,,,29/09/2026 01:33
 72ceb36b-f148-425f-bdd3-f7e0e29e4311,adaptable.tips,available,15.99,30.99,high,low,9,namesilo,,,21/09/2026 16:52
 bafd1098-9524-4f68-a08e-569adc2cd812,bimanual.tips,available,12.98,42.48,medium,low,8,namecheap,,,09/08/2026 22:36
@@ -352,11 +382,12 @@ cb8d1b90-ab6e-4a66-9675-ddbe712a8b2d,bicentric.tips,available,12.98,42.48,medium
 422f765d-f98d-41ba-a4ca-b1806d7afddd,burred.tips,available,12.98,42.48,medium,low,6,namecheap,,,08/08/2026 17:23
 b829e112-e5a6-4ed5-b889-36e938c89d81,arborvitae.tips,available,15.99,30.99,medium,low,10,namesilo,,,20/09/2026 00:54
 ccea6adc-b7d0-49b8-8898-83b5b93cdbef,alfatah.tips,available,15.99,30.99,medium,low,8,namesilo,,,18/09/2026 00:22
+3cce6823-b32d-4edc-a99b-c7fb539222bf,hogarth.tips,available,11.59,25.04,high,low,7,spaceship,,,29/09/2026 13:03
 442137bd-3eba-40b3-a839-607d313a3372,relate.tips,available,12.98,42.48,high,low,6,namecheap,,,07/08/2026 07:03
 713dde57-c355-4d74-ac6f-274602112cc6,observations.tips,available,15.99,30.99,medium,low,12,namesilo,,,17/09/2026 08:04
 2b08fd83-a301-40f5-a770-5ab88c999f42,benet.tips,available,15.99,30.99,high,low,5,namesilo,,,23/09/2026 07:58
 992f9abd-380c-43c3-b954-b90ddd8286f7,adorables.tips,available,14.99,,high,low,9,name.com,,,
-dc7d23a8-a6a7-48a1-8955-21e11faffa82,villa.tips,available,8.24,25.9,medium,low,5,dynadot,,,29/09/2026 00:41
+dc7d23a8-a6a7-48a1-8955-21e11faffa82,villa.tips,available,8.24,25.9,high,low,5,dynadot,,,29/09/2026 00:41
 09ae3791-ee1b-43d2-89d4-3a48a3d794b2,offshore.tips,available,12.98,42.48,high,low,8,namecheap,,,04/09/2026 01:37
 9747451e-4e69-4953-9cd0-924f3d9177f1,tearless.tips,available,12.98,42.48,medium,low,8,namecheap,,,14/08/2026 20:31
 943cdc49-4eca-47bf-9dc8-3ce8c3d0d437,omissive.tips,available,12.98,42.48,medium,low,8,namecheap,,,04/09/2026 02:28
@@ -365,8 +396,10 @@ e5265dc4-8103-4416-adb6-00b57109464a,fugly.tips,available,12.98,42.48,medium,low
 478c839a-ac0f-498b-ad6b-e0fe3f5df6cc,beams.tips,available,15.99,30.99,medium,low,5,namesilo,,,28/09/2026 23:32
 c837f1a9-56f7-4373-ad9a-ad9aa5bbfe80,twisting.tips,available,12.98,42.48,high,low,8,namecheap,,,11/09/2026 21:52
 10f05a9f-884d-47c4-9407-be99d083e37d,continuity.tips,available,15.99,30.99,high,low,10,namesilo,,,24/09/2026 17:42
+751ca224-768e-49cb-9825-a8c86aa1cc7d,marr.tips,available,15,,high,low,4,unstoppable,,,29/09/2026 10:01
 7642ded0-18bf-44bf-884b-37e963cee840,aloft.tips,available,12.98,42.48,medium,low,5,namecheap,,,13/09/2026 19:10
 9849fca9-0eb6-48c9-9668-93103795ef56,interfaith.tips,available,12.98,42.48,high,low,10,namecheap,,,22/08/2026 08:02
+af74c223-b1e2-4689-9868-369c4d81ca78,canadians.tips,available,11.59,25.04,medium,low,9,spaceship,,,29/09/2026 17:32
 c7eac89c-6b21-4341-9c9b-34f725abfc67,ammonia.tips,available,15.99,30.99,high,low,7,namesilo,,,18/09/2026 22:08
 110f14d9-4636-42b2-9222-5d95e75b6cc5,batter.tips,available,15.99,30.99,high,low,6,namesilo,,,22/09/2026 14:16
 b880ab0a-945d-4728-b3cd-bee36ff72c32,sections.tips,available,15.99,30.99,medium,low,8,namesilo,,,29/09/2026 05:14
@@ -374,13 +407,14 @@ b880ab0a-945d-4728-b3cd-bee36ff72c32,sections.tips,available,15.99,30.99,medium,
 0a5dabe8-9a07-4c03-be83-c261152928b7,blenheim.tips,available,15.99,30.99,medium,low,8,namesilo,,,24/09/2026 05:52
 979ba6a1-efc4-4934-bd4e-ae57ad8a33ec,comedian.tips,available,15.99,30.99,high,low,8,namesilo,,,23/09/2026 15:26
 ebef3360-85b0-4d7c-a8f6-e76483123cb1,dias.tips,available,15.99,30.99,high,low,4,namesilo,,,22/09/2026 09:17
-2361a516-58b8-48cb-8b46-9a9b1a2270e3,obese.tips,available,15.99,30.99,medium,low,5,namesilo,,,23/09/2026 23:32
+2361a516-58b8-48cb-8b46-9a9b1a2270e3,obese.tips,available,15.99,30.99,high,low,5,namesilo,,,23/09/2026 23:32
 adb461b2-9f63-4412-a565-60ad596a9f20,tess.tips,available,15.99,30.99,medium,low,4,namesilo,,,28/09/2026 21:56
 2cf3cb66-cbe3-45d6-8189-55c521f3066d,mismatched.tips,available,12.98,42.48,medium,low,10,namecheap,,,25/08/2026 01:36
 982e5257-ea47-428e-b535-d86baf74610e,anklet.tips,available,15.99,30.99,high,low,6,namesilo,,,19/09/2026 09:41
 d5056803-b8ab-4cc8-8252-8a7092d1ce94,tasteless.tips,available,12.98,42.48,medium,low,9,namecheap,,,11/09/2026 09:02
 4118c8a4-64d1-48a3-9b57-7efcfa6161bd,anarchist.tips,available,12.98,42.48,high,low,9,namecheap,,,19/09/2026 02:24
 1bd7f507-bd99-4099-bbfa-433b4cd98bc7,darkling.tips,available,14.99,39.99,medium,low,8,name.com,,,13/08/2026 18:16
+53819c31-653d-4cf6-8ace-b8c5161d9531,cfl.tips,available,24.2,24.2,high,low,3,cloudflare,,,29/09/2026 20:49
 a520701a-2c63-42ce-bc9e-776b44fb0c11,nutbrown.tips,available,12.98,42.48,medium,low,8,namecheap,,,03/09/2026 23:14
 5fcbfc9f-9414-4170-a425-a8288fef93c4,preparing.tips,available,15.99,30.99,high,low,9,namesilo,,,27/09/2026 06:40
 352b8ace-51d2-41c4-9b8f-9b34c93ddd0b,newsletters.tips,available,15.99,30.99,high,low,11,namesilo,,,20/09/2026 15:17
@@ -389,16 +423,18 @@ a520701a-2c63-42ce-bc9e-776b44fb0c11,nutbrown.tips,available,12.98,42.48,medium,
 9f465f24-83e0-42e3-8dd4-b786645454cd,unbroken.tips,available,12.98,42.48,high,low,8,namecheap,,,22/08/2026 15:36
 e541b445-5b08-4fb2-a874-b519c2f78dfa,significance.tips,available,24.2,24.2,high,low,12,cloudflare,,,28/09/2026 08:20
 2f301f86-b431-4e50-822e-5cbc07596242,octavian.tips,available,15.99,30.99,medium,low,8,namesilo,,,21/09/2026 04:03
-ea4d87c9-4074-4796-89a2-08a25a06cfeb,schonberg.tips,available,15.99,30.99,medium,low,9,namesilo,,,20/09/2026 08:20
+ea4d87c9-4074-4796-89a2-08a25a06cfeb,schonberg.tips,available,15.99,30.99,high,low,9,namesilo,,,20/09/2026 08:20
 0ad00f12-4ae6-45f4-9fcb-6eef0e5bb5ad,amaterasu.tips,available,15.99,30.99,medium,low,9,namesilo,,,18/09/2026 16:05
 91929e72-bcee-4ccf-bc18-59f7a97394ef,frowning.tips,available,12.98,42.48,medium,low,8,namecheap,,,18/08/2026 16:40
 43a1fac1-409a-4676-bb10-f5ebfcbe3d28,stunner.tips,available,12.98,42.48,high,low,7,namecheap,,,22/08/2026 16:40
+f29d60a3-2ed2-47e4-bb50-da69fb039df1,rok.tips,available,24.2,24.2,high,low,3,cloudflare,,,29/09/2026 08:31
+6dad9d4a-c2f2-4320-9c0e-91f3f6fa09a8,denies.tips,available,11.59,25.04,low,low,6,spaceship,,,29/09/2026 15:56
 46c76d66-a755-48f4-ad47-9872fcd24e43,absence.tips,available,15.99,30.99,medium,low,7,namesilo,,,28/09/2026 17:04
 a2e24f1d-601a-4447-b778-a311ea1d851b,judicious.tips,available,12.98,42.48,high,low,9,namecheap,,,21/08/2026 02:00
 7fb54a69-b9d8-436b-932f-6e432e672935,participating.tips,available,14.99,,medium,low,13,name.com,,,
 d4724471-1f24-4845-9a2e-0accc5c47258,flake.tips,available,12.98,42.48,medium,low,5,namecheap,,,14/08/2026 23:23
 0c47d535-94f0-418a-ab58-e1752fb4e7a1,geese.tips,available,14.99,,medium,low,5,name.com,,,
-a1be3f3e-c44b-4192-9e55-f47131c1d12f,doctoral.tips,available,12.98,42.48,medium,low,8,namecheap,,,14/08/2026 14:19
+a1be3f3e-c44b-4192-9e55-f47131c1d12f,doctoral.tips,available,12.98,42.48,high,low,8,namecheap,,,14/08/2026 14:19
 4c01558d-a81f-4dab-b87f-39e6a7a84eef,madagascan.tips,available,12.98,42.48,medium,low,10,namecheap,,,24/08/2026 12:55
 a1210a22-f621-4fbb-9194-2a7ac156fa75,pittsburgh.tips,available,14.99,,high,low,10,name.com,,,
 e18748fb-8c78-4792-95c7-724e651dff14,banquette.tips,available,15.99,30.99,medium,low,9,namesilo,,,22/09/2026 03:08
@@ -407,8 +443,10 @@ e18748fb-8c78-4792-95c7-724e651dff14,banquette.tips,available,15.99,30.99,medium
 ef1fc333-eea7-4fe0-8982-8661335fcf07,buffer.tips,available,11.59,25.04,high,low,6,spaceship,,,29/09/2026 05:06
 62278381-91a3-4a4b-8611-6b2eb19b5bb6,numerate.tips,available,12.98,42.48,medium,low,8,namecheap,,,03/09/2026 22:56
 2b412012-36e5-4ccf-a1d6-9e52154d1ed8,invaluable.tips,available,15.99,30.99,high,low,10,namesilo,,,25/09/2026 11:01
-0b1603c6-6451-4ef9-b512-bb4726006696,difficulty.tips,available,14.99,,high,low,10,name.com,,,
+0b1603c6-6451-4ef9-b512-bb4726006696,difficulty.tips,available,11.59,25.04,high,low,10,spaceship,,,29/09/2026 14:54
 db824b3e-892e-441c-9396-d30d33de29e3,achillea.tips,available,15.99,30.99,medium,low,8,namesilo,,,17/09/2026 00:35
+fff56cac-e75a-4947-9c15-51ea141c9a9b,northfield.tips,available,8.24,25.9,high,low,10,dynadot,,,29/09/2026 10:07
+4f47c1ea-bcab-4662-9f5f-122e201b824b,hillsdale.tips,available,11.59,25.04,high,low,9,spaceship,,,29/09/2026 22:46
 98f1f47a-4793-4cca-b86f-ee3c9dfb6c41,bryn.tips,available,11.59,25.04,medium,low,4,spaceship,,,28/09/2026 07:45
 df404e63-556b-449e-b1a5-4fae04d6106d,allergen.tips,available,15.99,30.99,high,low,8,namesilo,,,18/09/2026 10:53
 282f4100-55f9-4dbf-ab04-fb984b8a4035,nooky.tips,available,12.98,42.48,low,low,5,namecheap,,,18/08/2026 17:29
@@ -418,7 +456,8 @@ befbbb0b-d3f9-4fef-8242-be4692df3682,dysprosium.tips,available,12.98,42.48,mediu
 4068eecd-189d-4825-86b5-01fc9839a9d1,rhenish.tips,available,12.98,42.48,medium,low,7,namecheap,,,09/09/2026 16:29
 c824273c-3440-4efc-8be9-8dff1b30907c,latakia.tips,available,15.99,30.99,medium,low,7,namesilo,,,18/09/2026 01:28
 a5195825-e59d-4803-b027-cc5b5045e5e9,zoomed.tips,available,15.99,30.99,medium,low,6,namesilo,,,18/09/2026 03:48
-061a2ed2-c145-4b38-bf26-e4ebc463975b,daughter.tips,available,14.99,,high,low,8,name.com,,,
+66a837cf-35af-4489-98f0-254e2a445596,investigative.tips,available,11.59,25.04,medium,low,13,spaceship,,,29/09/2026 08:53
+061a2ed2-c145-4b38-bf26-e4ebc463975b,daughter.tips,available,15.99,30.99,high,low,8,namesilo,,,29/09/2026 13:15
 03546216-f791-4824-b745-6233abe57f89,goals.tips,available,11.59,25.04,high,low,5,spaceship,,,28/09/2026 07:10
 fc0beac4-3cf7-41fc-b827-20a8d89ecee3,scrawny.tips,available,12.98,42.48,medium,low,7,namecheap,,,09/09/2026 23:42
 74c214bd-6703-41f0-98e9-8fc2f9403930,hag.tips,available,15.99,30.99,high,low,3,namesilo,,,23/09/2026 04:44
@@ -426,26 +465,31 @@ fc0beac4-3cf7-41fc-b827-20a8d89ecee3,scrawny.tips,available,12.98,42.48,medium,l
 d87f3c5a-e4e6-4260-8277-f08a5b726fc4,perishable.tips,available,12.98,42.48,high,low,10,namecheap,,,08/09/2026 17:18
 28ee8145-0445-441a-b2a8-c85dfaef7830,unrivalled.tips,available,12.98,42.48,high,low,10,namecheap,,,24/08/2026 17:08
 acc23b50-03d6-4136-828e-239c6947db9c,ascendant.tips,available,12.98,42.48,high,low,9,namecheap,,,
+54274f9a-2b8b-48db-94f6-f7757390805b,momentarily.tips,available,15.99,30.99,medium,low,11,namesilo,,,29/09/2026 23:02
 a629617a-adde-49b3-b9c9-9e5b08215407,manor.tips,available,11.59,25.04,high,low,5,spaceship,,,28/09/2026 19:49
 9aad0b5c-4d16-41b4-8966-1416f746d430,generals.tips,available,12.98,42.48,medium,low,8,namecheap,,,18/09/2026 06:44
 6c82d3ea-0e98-4f8d-885d-d8507f135db3,malay.tips,premium,78.54,78.54,high,low,5,namesilo,,,24/08/2026 13:42
 f5f4c9a3-4f8e-49c2-8261-68701d26c050,asio.tips,available,15.99,30.99,medium,low,4,namesilo,,,20/09/2026 14:18
+1d2a600c-ec1d-4a14-9120-463ffbaf1d3f,illegitimate.tips,available,15,,medium,low,12,unstoppable,,,30/09/2026 03:36
 29eaa700-3708-46fe-99bf-d6773a554afc,cypriote.tips,available,14.99,39.99,medium,low,8,name.com,,,13/08/2026 14:05
+5acc6830-7400-45f2-990b-857ce764f639,osama.tips,available,12.98,42.48,medium,low,5,namecheap,,,29/09/2026 22:16
 ae9a8abc-766a-4a36-bb76-69ccecde5041,cumbersome.tips,available,12.98,42.48,medium,low,10,namecheap,,,13/08/2026 10:25
 52348ece-3a81-4f4c-a3f2-af77706ed61f,criticize.tips,available,14.99,,high,low,9,name.com,,,
 de930a3c-5bd3-4e25-98cd-74cfc87c3408,deserted.tips,available,12.98,42.48,medium,low,8,namecheap,,,
 03cad46a-6236-4790-a6ef-bf69e00c3a26,ponds.tips,available,12.98,42.48,medium,low,5,namecheap,,,18/09/2026 22:37
 be51f7db-523d-47f4-b5c5-086b34d283c2,convenient.tips,available,14.99,39.99,high,low,10,name.com,,,23/09/2026 15:48
 5b500faa-d843-45a6-8ef1-c3acfa16a196,metrical.tips,available,12.98,42.48,medium,low,8,namecheap,,,24/08/2026 22:08
-9018726a-cf2e-4e52-9677-6da500cd06e1,wabash.tips,available,15.99,30.99,medium,low,6,namesilo,,,28/09/2026 03:15
+297f8aea-9287-4ade-bb50-a9d3046c6567,gravitational.tips,available,11.59,25.04,medium,low,13,spaceship,,,29/09/2026 10:18
+8df0812e-7759-4b55-9d54-cbf4dadcff61,martyr.tips,available,15,,high,low,6,unstoppable,,,29/09/2026 13:23
+9018726a-cf2e-4e52-9677-6da500cd06e1,wabash.tips,available,15.99,30.99,high,low,6,namesilo,,,28/09/2026 03:15
 c10d01cd-77ed-4597-bc93-390679cbe747,thurston.tips,available,11.59,25.04,medium,low,8,spaceship,,,28/09/2026 04:06
 79115b65-1694-4e8e-867e-ee00efb620b3,blaming.tips,available,11.59,25.04,medium,low,7,spaceship,,,28/09/2026 18:00
 a4151f84-7374-4acf-9690-3dd5feb00a77,hind.tips,available,12.98,42.48,medium,low,4,namecheap,,,21/08/2026 09:26
 69090b65-5aab-4a84-8d26-78cddd031a36,stanford.tips,available,11.59,25.04,high,low,8,spaceship,,,28/09/2026 06:08
 2891505b-d738-4bd2-a03d-f10e9acc3363,bonkers.tips,available,12.98,42.48,medium,low,7,namecheap,,,06/08/2026 20:40
 9eaa0095-6d63-4b97-a21f-f2a8270c9920,superstar.tips,available,12.98,42.48,high,low,9,namecheap,,,28/09/2026 17:57
-71b1c505-bec9-4d9a-9f19-f1dafb680782,auspices.tips,available,12.98,42.48,medium,low,8,namecheap,,,17/09/2026 12:16
-780f6c62-b0b8-4423-ac2a-a900a745a087,hanger.tips,available,14.99,,medium,low,6,name.com,,,
+71b1c505-bec9-4d9a-9f19-f1dafb680782,auspices.tips,available,12.98,42.48,high,low,8,namecheap,,,17/09/2026 12:16
+780f6c62-b0b8-4423-ac2a-a900a745a087,hanger.tips,available,8.24,25.23,medium,low,6,porkbun,,,29/09/2026 22:02
 0e53023f-9331-4078-b406-4e26938aac5e,picker.tips,available,15.99,30.99,medium,low,6,namesilo,,,24/09/2026 14:45
 0f0dad4a-3039-436a-bed1-14ec2d61bd37,sandfish.tips,available,12.98,42.48,medium,low,8,namecheap,,,22/09/2026 19:42
 1a51b648-18fa-4e50-b0b5-ce34948816af,lipstick.tips,available,8.24,25.9,high,low,8,dynadot,,,28/09/2026 02:36
@@ -461,6 +505,7 @@ b0d840ce-6b61-4272-99fd-11230a97ce2d,newfangled.tips,available,12.98,42.48,mediu
 50caada9-9bd2-4856-9d26-ed776794d3bb,bassinet.tips,available,15.99,30.99,medium,low,8,namesilo,,,22/09/2026 12:23
 2280f3ec-636b-4f31-a862-56e0cfd54c51,scag.tips,available,15.99,30.99,medium,low,4,namesilo,,,23/09/2026 14:40
 9f642b12-2a58-4646-9f25-eacbda9cdc61,seated.tips,available,11.59,25.04,high,low,6,spaceship,,,27/09/2026 19:11
+7f016e04-b959-464e-a3ba-83e7d3735d76,yoo.tips,available,8.24,25.23,high,low,3,porkbun,,,30/09/2026 03:49
 463b05a6-c18a-434c-b8b2-2896e6c1bb66,joel.tips,available,15.99,30.99,high,low,4,namesilo,,,24/09/2026 06:55
 51db9661-75db-4f16-9881-504edc01f325,endergonic.tips,available,12.98,42.48,medium,low,10,namecheap,,,17/08/2026 00:55
 7bedb8bf-8511-4c0c-be17-1f2b0f014fc8,arariba.tips,available,12.98,42.48,medium,low,7,namecheap,,,20/09/2026 00:13
@@ -469,6 +514,7 @@ f15be826-2715-4d64-b1aa-b0390a6fcfe0,underarm.tips,available,12.98,42.48,medium,
 cffffeaf-1bd9-43ae-91e5-4b6b7a0855a4,indoaryan.tips,available,12.98,42.48,medium,low,10,namecheap,,,06/08/2026 23:56
 40970283-8745-4122-bb13-2508a6ca9eba,rhymes.tips,available,15.99,30.99,medium,low,6,namesilo,,,29/09/2026 05:42
 77442994-4755-42f3-8756-f12498f8e3af,receipt.tips,available,14.99,,high,low,7,name.com,,,
+a0086926-0c46-459b-9f72-3dbd1e07d1fb,heroism.tips,available,24.2,24.2,high,low,7,cloudflare,,,29/09/2026 18:59
 d34843a9-9336-4c06-8dd2-7d4951a4e85d,unveiled.tips,available,12.98,42.48,high,low,8,namecheap,,,12/09/2026 22:05
 e56aa4bc-33d8-4880-bf64-894f3bd56327,speeding.tips,available,15.99,30.99,high,low,8,namesilo,,,25/09/2026 06:47
 b2d5cdd6-52cb-4b1c-8609-57a5bbbd2848,chary.tips,available,12.98,42.48,medium,low,5,namecheap,,,12/08/2026 02:59
@@ -479,18 +525,18 @@ ded27887-4c71-4909-9842-e4159c546f46,liquified.tips,available,12.98,42.48,medium
 810ad152-ce5b-4f33-b05e-4c1bdee1bc0a,unemployed.tips,available,12.98,42.48,medium,low,10,namecheap,,,28/09/2026 09:51
 9e0c833d-4991-4b14-ac7c-4c8993f87e01,deeply.tips,available,12.98,42.48,medium,low,6,namecheap,,,13/08/2026 22:30
 e3563a20-cf82-4469-8546-001c15ebd873,dreamless.tips,available,12.98,42.48,medium,low,9,namecheap,,,14/08/2026 18:43
-1b0ab337-9752-4579-97ac-11ce31d5cd98,nashville.tips,available,14.99,,high,low,9,name.com,,,
+1b0ab337-9752-4579-97ac-11ce31d5cd98,nashville.tips,available,11.59,25.04,high,low,9,spaceship,,,29/09/2026 07:04
 0f7195fc-d05f-42c7-88ba-4caadcc8d550,antioxidant.tips,available,14.99,,high,low,11,name.com,,,
 fb939f66-0d19-4d9f-8d18-2cd73a61d39a,romp.tips,available,12.98,42.48,high,low,4,namecheap,,,09/09/2026 19:26
 ab66b171-cd18-4bec-856d-de480828f495,arabist.tips,available,15.99,30.99,medium,low,7,namesilo,,,19/09/2026 23:35
+ba261a54-fd06-4581-9942-9f2d8ef68420,flattered.tips,available,11.59,25.04,high,low,9,spaceship,,,29/09/2026 14:41
 5bdb95c5-af2e-4df6-9ada-2b97478a0d43,scoops.tips,available,15.99,30.99,medium,low,6,namesilo,,,20/09/2026 12:19
-2c64da7a-714e-4b44-8ba6-9615091f195e,diplomat.tips,available,14.99,,high,low,8,name.com,,,
+2c64da7a-714e-4b44-8ba6-9615091f195e,diplomat.tips,available,12.98,42.48,high,low,8,namecheap,,,29/09/2026 15:06
 86199cfe-2560-4e9e-9f51-855ecdf9e6bc,giovanni.tips,available,15.99,30.99,high,low,8,namesilo,,,25/09/2026 14:42
-012694c5-ecc5-439e-a401-b6b6ee87cc7b,derive.tips,available,14.99,,high,low,6,name.com,,,
-e9b43612-5313-418c-ba44-c32d1c2ab0b8,ladder.tips,available,14.99,,high,low,6,name.com,,,
+012694c5-ecc5-439e-a401-b6b6ee87cc7b,derive.tips,available,15,,high,low,6,unstoppable,,,29/09/2026 20:28
+e9b43612-5313-418c-ba44-c32d1c2ab0b8,ladder.tips,available,15.99,30.99,high,low,6,namesilo,,,30/09/2026 01:55
 ef67b711-5e2f-4924-b6f4-3d9f8b8db67d,fabled.tips,available,12.98,42.48,high,low,6,namecheap,,,17/08/2026 20:12
-c2de14a2-872a-4d1f-b8fb-9d01466847ea,cube.tips,available,14.99,,high,medium,4,name.com,,,
-e0f76907-ccd3-465e-bcab-3ede9b780c6a,encouragement.tips,available,15.99,30.99,medium,low,13,namesilo,,,28/09/2026 22:35
+e0f76907-ccd3-465e-bcab-3ede9b780c6a,encouragement.tips,available,15.99,30.99,high,low,13,namesilo,,,28/09/2026 22:35
 75783905-e5c2-4024-8bf7-6d4e9faa5b38,coexisting.tips,available,12.98,42.48,medium,low,10,namecheap,,,12/08/2026 15:32
 5b04d376-f5f1-4c2a-8cce-800d6fe05e87,recumbent.tips,available,12.98,42.48,medium,low,9,namecheap,,,
 ed5661c4-7411-460d-8c7b-73b77b4bc814,ovarian.tips,available,12.98,42.48,medium,low,7,namecheap,,,04/09/2026 19:55
@@ -498,16 +544,18 @@ ed5661c4-7411-460d-8c7b-73b77b4bc814,ovarian.tips,available,12.98,42.48,medium,l
 910f53ef-c615-4ead-a0b3-10f537add4b7,fab.tips,premium,41.25,41.25,high,low,3,name.com,,,17/08/2026 20:08
 b6b0d0ff-4e20-494d-ae31-47af78e3cf95,bucks.tips,available,15.99,30.99,high,low,5,namesilo,,,25/09/2026 13:26
 c25342c2-94ab-4904-876a-d4d0fac8949a,croak.tips,available,12.98,42.48,medium,low,5,namecheap,,,24/09/2026 19:33
+72c4a0ab-cf8b-415c-a2ad-8c4bc5ae7fd9,derrida.tips,available,24.2,24.2,medium,low,7,cloudflare,,,29/09/2026 18:37
 ffcdb533-ee24-40a5-8a88-d2baa9d8201b,shoot.tips,available,15.99,30.99,high,low,5,namesilo,,,28/09/2026 12:19
 5aef2b4c-e703-4cfa-ace1-5fc46083bf24,specimen.tips,available,15.99,30.99,high,low,8,namesilo,,,28/09/2026 03:06
-d44bb53f-0594-42bb-835a-3b9dcb392063,detest.tips,available,14.99,,medium,low,6,name.com,,,
+d44bb53f-0594-42bb-835a-3b9dcb392063,detest.tips,available,24.2,24.2,medium,low,6,cloudflare,,,29/09/2026 22:18
 ab85a958-be66-47ae-8b8f-920e27faccfd,schizoid.tips,available,12.98,42.48,medium,low,8,namecheap,,,09/09/2026 23:09
+63b13e97-8377-4284-a5db-edeef7da039c,blogger.tips,premium,34.36,34.36,high,high,7,spaceship,,,29/09/2026 17:59
 9447c74d-1bdf-44df-8b88-b0d96fcfe077,muggy.tips,available,12.98,42.48,medium,low,5,namecheap,,,03/09/2026 10:31
 dc1623d8-b5f7-45dc-95b8-1e3064acd339,optative.tips,available,12.98,42.48,medium,low,8,namecheap,,,04/09/2026 16:54
 68cfe799-3240-4798-8fdf-f3c4a217c99b,beechwood.tips,available,15.99,30.99,medium,low,9,namesilo,,,23/09/2026 00:14
-c0678c0d-717d-4f06-953a-5e3097787ade,lecture.tips,available,14.99,,high,low,7,name.com,,,
+c0678c0d-717d-4f06-953a-5e3097787ade,lecture.tips,available,15.99,30.99,high,low,7,namesilo,,,30/09/2026 02:40
 b14a70d3-d774-4b99-b314-568a02c5ac4d,immaculate.tips,available,12.98,42.48,high,low,10,namecheap,,,18/08/2026 00:07
-8d021825-9ae7-4a3f-b03e-4e188c8f117f,plate.tips,available,14.99,,high,low,5,name.com,,,
+8d021825-9ae7-4a3f-b03e-4e188c8f117f,plate.tips,available,15.99,30.99,high,low,5,namesilo,,,29/09/2026 10:15
 a46fd42f-7213-4303-9e0c-943a184bdaab,calgary.tips,available,15.99,30.99,high,low,7,namesilo,,,24/09/2026 11:43
 8e30982b-5bcf-4b1e-8c74-85dbcd70bac1,ans.tips,available,15.99,30.99,high,low,3,namesilo,,,19/09/2026 12:01
 7a5fd1de-1d0b-4be8-b081-4918dfadebf5,usual.tips,available,15.99,30.99,high,low,5,namesilo,,,28/09/2026 10:03
@@ -518,22 +566,23 @@ ecc33f38-cb40-4c60-b8c1-0002f282a236,tardy.tips,available,12.98,42.48,medium,low
 876b7ed3-0b47-4bfb-bdc2-296d3de7fb23,mournful.tips,available,12.98,42.48,medium,low,8,namecheap,,,14/08/2026 15:16
 cd99f20e-c0db-4d0e-b5ee-931bb096d65b,martini.tips,available,24.2,24.2,high,low,7,cloudflare,,,28/09/2026 14:50
 978e2f5b-e910-437e-bd34-f77468b58a16,nonsocial.tips,available,12.98,42.48,medium,low,9,namecheap,,,03/09/2026 19:18
-6e966fc2-de90-47c1-bd07-e381f91a5ab6,couple.tips,available,14.99,,high,low,6,name.com,,,
+6e966fc2-de90-47c1-bd07-e381f91a5ab6,couple.tips,available,8.24,25.9,high,low,6,dynadot,,,29/09/2026 11:48
 8cd29a62-59ea-4661-9123-4a5d64a287ce,least.tips,available,15.99,30.99,high,low,5,namesilo,,,25/09/2026 13:24
 e9e8c1fb-0f33-4168-9c81-da339aa4c4d4,insatiable.tips,available,12.98,42.48,medium,low,10,namecheap,,,22/08/2026 06:33
 6e77862a-3cea-48d7-aea4-1e3dd4bb13de,jacques.tips,available,15.99,30.99,high,low,7,namesilo,,,25/09/2026 13:47
 1c9438e3-da6b-45d9-be4a-938c9ecdac41,esthesis.tips,available,15.99,30.99,low,low,8,namesilo,,,17/09/2026 13:28
-fa70918e-4982-4a30-aa7e-042df6cfa304,gita.tips,available,15.99,30.99,medium,low,4,namesilo,,,23/09/2026 12:33
+fa70918e-4982-4a30-aa7e-042df6cfa304,gita.tips,available,15.99,30.99,high,low,4,namesilo,,,23/09/2026 12:33
 eb6fa47b-96bc-443c-8539-02290f59bcd0,kisses.tips,available,15.99,30.99,medium,low,6,namesilo,,,28/09/2026 04:53
 aeea9f8b-4111-460b-8915-c0576c0eaa1f,opencut.tips,available,12.98,42.48,medium,low,7,namecheap,,,04/09/2026 16:10
 79f4ccdc-28f2-4b11-8185-4937bdf35708,orad.tips,available,12.98,42.48,medium,low,4,namecheap,,,15/09/2026 18:09
 22c4bfcf-0a66-4c3d-a4a6-e733aeafab2b,semirigid.tips,available,12.98,42.48,medium,low,9,namecheap,,,10/09/2026 03:19
 b1dfc812-77b3-45d4-9e63-ce1136111a65,azygous.tips,available,12.98,42.48,medium,low,7,namecheap,,,08/08/2026 03:27
 debddbbb-5096-44fd-bd01-710cd70458e7,mile.tips,available,24.2,24.2,high,low,4,cloudflare,,,28/09/2026 18:43
-2411b034-d8de-4c3b-9b18-24c874764dc7,basilica.tips,available,15.99,30.99,medium,low,8,namesilo,,,22/09/2026 10:49
+2411b034-d8de-4c3b-9b18-24c874764dc7,basilica.tips,available,15.99,30.99,high,low,8,namesilo,,,22/09/2026 10:49
 0b944866-0a37-49cd-8faf-b164bf231888,alkali.tips,available,15.99,30.99,high,low,6,namesilo,,,18/09/2026 08:16
 3df13f52-be44-4d8d-8f75-8a51284d021e,wired.tips,available,15.99,30.99,high,low,5,namesilo,,,27/09/2026 08:11
 a39baeec-96d8-4d24-ad9f-b5b307d06e2a,eyry.tips,available,12.98,42.48,high,low,4,namecheap,,,
+d4366008-f61a-4fdb-9d92-725d02d3c3a4,oleg.tips,available,11.59,25.04,high,low,4,spaceship,,,29/09/2026 17:51
 84f656da-a747-43a9-bbe5-9955f2d85f5f,truman.tips,available,8.24,25.23,medium,low,6,porkbun,,,28/09/2026 10:00
 4ab87aca-8973-478e-9898-8149f12df839,ips.tips,premium,85.8,85.8,high,low,3,namecheap,,,29/09/2026 03:50
 8168c562-c22a-4c7f-8b1d-ad85c6bfbb32,atlantic.tips,available,12.98,42.48,high,low,8,namecheap,,,07/08/2026 13:38
@@ -550,7 +599,7 @@ f538c0d5-2221-4e8d-b433-982e88096f35,desire.tips,available,12.98,42.48,high,low,
 c857d54e-3747-47c6-9e21-356c569c3f63,plodding.tips,available,12.98,42.48,medium,low,8,namecheap,,,08/09/2026 21:17
 9a66f236-1c15-4109-863f-8c54a2403dfd,machinist.tips,available,15.99,30.99,high,low,9,namesilo,,,19/09/2026 17:14
 3a7ab34d-1f05-4ae0-b86b-d8bf941e89ce,motorist.tips,available,15.99,30.99,high,low,8,namesilo,,,21/09/2026 07:26
-854f6fcd-def5-4074-bf06-b33d146e249e,borne.tips,available,14.99,,medium,low,5,name.com,,,
+854f6fcd-def5-4074-bf06-b33d146e249e,borne.tips,available,14.99,,high,low,5,name.com,,,
 d364d1a8-2a4b-4cec-a4f2-13b23a437035,peninsula.tips,available,14.99,,high,low,9,name.com,,,
 925fac58-c333-412d-bb99-300159605800,deserved.tips,available,12.98,42.48,high,low,8,namecheap,,,14/08/2026 03:27
 6c8bd0ed-318c-48c9-a9c5-130a8b6db8f5,fatalist.tips,available,12.98,42.48,medium,low,8,namecheap,,,17/08/2026 23:29
@@ -560,8 +609,8 @@ e3d6c53c-6adc-4737-8240-1b2674de71f4,smash.tips,available,15.99,30.99,high,low,5
 c00e238c-f13e-4a6a-b432-3be625e38fc7,robustly.tips,available,12.98,42.48,medium,low,8,namecheap,,,15/09/2026 23:57
 50e8fcd5-2a08-4e55-a8b6-0b57a022e93c,allotted.tips,available,12.98,42.48,high,low,8,namecheap,,,
 35c112dd-9a8a-4490-9f59-0d448c8da6e0,stannic.tips,available,12.98,42.48,low,low,7,namecheap,,,10/09/2026 18:41
-d3ab7d05-f93a-4cb1-be18-0eb9d78a2c2d,gifts.tips,premium,512,512,medium,low,5,namesilo,,,25/09/2026 17:25
-4ef9081c-5482-486b-ab08-2bfe1587a6a3,poisoning.tips,available,14.99,,medium,low,9,name.com,,,
+d3ab7d05-f93a-4cb1-be18-0eb9d78a2c2d,gifts.tips,premium,512,512,high,low,5,namesilo,,,25/09/2026 17:25
+4ef9081c-5482-486b-ab08-2bfe1587a6a3,poisoning.tips,available,24.2,24.2,medium,low,9,cloudflare,,,30/09/2026 00:17
 6f6ff352-5afd-43d9-b333-faadafbcfe51,lamplit.tips,available,12.98,42.48,medium,low,7,namecheap,,,22/08/2026 19:11
 b1969366-ea7c-4d28-b23f-d92bc0f646d3,decoration.tips,available,11.59,25.04,high,low,10,spaceship,,,28/09/2026 18:55
 d50af77e-c837-4e3d-bd97-1b9cd55d9ef4,rushy.tips,available,12.98,42.48,medium,low,5,namecheap,,,09/09/2026 20:04
@@ -583,7 +632,7 @@ d00d0484-9fb9-463b-9c34-b724b977c135,genetically.tips,available,8.24,25.9,medium
 963e3fce-95b9-4166-a353-e6f85e1b9f78,isles.tips,available,15.99,30.99,medium,low,5,namesilo,,,20/09/2026 01:00
 fa1f271a-fd21-4c7b-b87a-117b61df921f,proportion.tips,available,14.99,,high,low,10,name.com,,,
 3c318d69-d488-4677-8615-2db3cdfe57bd,shiloh.tips,available,15.99,30.99,medium,low,6,namesilo,,,22/09/2026 15:39
-0073a05e-7cf2-4b27-b73c-5979c9e2bcca,crusade.tips,available,15.99,30.99,medium,low,7,namesilo,,,28/09/2026 09:29
+0073a05e-7cf2-4b27-b73c-5979c9e2bcca,crusade.tips,available,15.99,30.99,high,low,7,namesilo,,,28/09/2026 09:29
 cdd1f7bd-9784-4e6c-9f67-2bc0de9965e5,brute.tips,available,12.98,42.48,high,low,5,namecheap,,,
 bfe57dac-af5f-4ba4-b95d-213c9f982ee0,triassic.tips,available,12.98,42.48,medium,low,8,namecheap,,,11/09/2026 19:21
 c0da705e-1d77-46ab-b021-ec6fdf6df297,clearance.tips,available,12.98,42.48,high,low,9,namecheap,,,08/09/2026 08:11
@@ -592,11 +641,11 @@ a7d5b632-be55-4450-bbe0-21d3a7b4783d,cannon.tips,available,12.98,42.48,high,low,
 f9d20e4e-05cc-4af7-b4f7-2469b2eead00,backer.tips,available,15.99,30.99,high,low,6,namesilo,,,21/09/2026 15:26
 e5db1547-61b7-4515-b206-149c671c6460,guests.tips,available,15.99,30.99,medium,low,6,namesilo,,,25/09/2026 17:02
 6a820ed7-9465-4cee-8b8b-1fc52b370839,allegiant.tips,available,12.98,42.48,high,low,9,namecheap,,,
-4a447d54-c2ee-4f48-abbb-dd71f2bf9674,apolitical.tips,available,12.98,42.48,medium,low,10,namecheap,,,06/08/2026 02:02
+4a447d54-c2ee-4f48-abbb-dd71f2bf9674,apolitical.tips,available,12.98,42.48,high,low,10,namecheap,,,06/08/2026 02:02
 f76888c7-3421-4dca-922f-f4f40d2330ff,bruising.tips,available,12.98,42.48,medium,low,8,namecheap,,,11/08/2026 06:34
 8d55caa7-a8bc-4c83-b988-d536aa95437a,plenteous.tips,available,12.98,42.48,medium,low,9,namecheap,,,08/09/2026 21:08
 b233e3a4-b40a-43dc-86de-db9590bdfef7,venerable.tips,available,15.99,30.99,high,low,9,namesilo,,,27/09/2026 14:05
-f6cdc643-1662-4c5d-98a8-73b62efbfc3d,stylised.tips,available,12.98,42.48,medium,low,8,namecheap,,,12/08/2026 23:48
+f6cdc643-1662-4c5d-98a8-73b62efbfc3d,stylised.tips,available,12.98,42.48,high,low,8,namecheap,,,12/08/2026 23:48
 1b1eca0d-ee26-44df-89ac-584ea0f2f140,ambiance.tips,available,15.99,30.99,high,low,8,namesilo,,,18/09/2026 16:40
 4fb2a6f1-c3c7-4099-b01b-899451f34e5c,adman.tips,available,15.99,30.99,medium,low,5,namesilo,,,17/09/2026 08:40
 b71f8bde-3255-4029-a4ee-b2aeacbe8126,genovese.tips,available,12.98,42.48,high,low,8,namecheap,,,18/08/2026 21:49
@@ -606,16 +655,18 @@ bde5143e-a5d2-415b-ba41-7cd08bc2cec5,westmoreland.tips,available,12.98,42.48,hig
 796c7478-e295-41ec-a2e6-2f43329cf7c3,oysters.tips,available,12.98,42.48,medium,low,7,namecheap,,,20/09/2026 03:31
 dc4daa4a-3eb3-4a50-a5b2-230d28757e06,pommel.tips,available,15.99,30.99,medium,low,6,namesilo,,,23/09/2026 13:53
 afe861cb-5f3f-40bc-8160-2be557f13383,accounted.tips,available,14.99,,medium,low,9,name.com,,,
-6bac4e50-c498-49c8-99cb-dea42b0c1a76,wolves.tips,available,11.59,25.04,medium,low,6,spaceship,,,28/09/2026 04:21
+6bac4e50-c498-49c8-99cb-dea42b0c1a76,wolves.tips,available,11.59,25.04,high,low,6,spaceship,,,28/09/2026 04:21
 42aa046a-759e-45bd-b0f3-f893caefc5b4,anguine.tips,available,12.98,42.48,low,low,7,namecheap,,,
 321ac624-53d4-4b5d-b388-6f9ad61ff55e,floss.tips,available,15.99,30.99,high,low,5,namesilo,,,24/09/2026 21:54
 e825e535-d96e-4387-9d34-bfcecdf76e88,commands.tips,available,15.99,30.99,medium,low,8,namesilo,,,28/09/2026 17:45
 86acc0c2-6d5c-490c-95d1-a4b0bdfc9e50,ballot.tips,available,15.99,30.99,high,low,6,namesilo,,,21/09/2026 23:15
 f8edfcec-216e-40dd-aeb2-4f758904a61c,aeschylus.tips,available,15.99,30.99,medium,low,9,namesilo,,,17/09/2026 13:19
 99b31a0c-d28f-46bd-a718-becc8bef1912,polar.tips,available,12.98,42.48,high,low,5,namecheap,,,18/08/2026 21:06
+f10e436f-49f0-4cdf-9141-cc55418fc088,nobles.tips,available,24.2,24.2,high,low,6,cloudflare,,,29/09/2026 15:05
 5817f9d3-fbd1-4742-8701-4129dec98bdb,opposite.tips,available,15.99,30.99,high,low,8,namesilo,,,23/09/2026 22:35
 6eeb3875-713d-45df-91ad-c60c8db5ee19,stonelike.tips,available,12.98,42.48,medium,low,9,namecheap,,,08/09/2026 18:26
 dbddf3c1-99f8-4d57-a3b3-ce01f8bcb97e,scummy.tips,available,12.98,42.48,medium,low,6,namecheap,,,
+5556a6ec-ddc0-4a76-810c-3e1c0647e8b7,rejecting.tips,available,11.59,25.04,low,low,9,spaceship,,,30/09/2026 00:04
 bd84ecf2-0407-4022-b5f8-b7c849841227,gorilla.tips,available,15,,high,low,7,unstoppable,,,28/09/2026 14:20
 c4ca4ab2-269f-4a07-a264-55269c591b9c,nubile.tips,available,12.98,42.48,medium,low,6,namecheap,,,24/08/2026 16:30
 83eb46e0-8663-4244-bc77-59ecd3a7e61b,sorrow.tips,available,8.24,25.23,medium,low,6,porkbun,,,28/09/2026 06:39
@@ -624,15 +675,17 @@ ee051699-f8ff-41e6-b8cb-ccf2d0be48a3,anglophile.tips,available,15.99,30.99,mediu
 a7d4af58-cc7a-41bd-aeab-ee5c824b0cb3,athenian.tips,available,12.98,42.48,medium,low,8,namecheap,,,07/08/2026 13:08
 c8156984-4f7a-447a-98af-ab96f4112025,spinous.tips,available,12.98,42.48,medium,low,7,namecheap,,,
 f0b37a7a-1b6f-42f8-84cd-6c8ed3a62ec1,delible.tips,available,12.98,42.48,low,low,7,namecheap,,,14/08/2026 00:35
+035271b7-3d72-4d4a-ba0e-e3e5483c80f5,density.tips,available,15.99,30.99,high,low,7,namesilo,,,29/09/2026 11:57
 8a2b654f-c50e-4f5b-bdd3-4339d918313d,pompous.tips,available,12.98,42.48,medium,low,7,namecheap,,,12/08/2026 00:37
-073cebbc-38bf-4945-a442-ff968cc8da6c,ovate.tips,available,12.98,42.48,medium,low,5,namecheap,,,15/08/2026 18:03
+073cebbc-38bf-4945-a442-ff968cc8da6c,ovate.tips,available,12.98,42.48,high,low,5,namecheap,,,15/08/2026 18:03
 5feaebf8-4478-4583-9f8b-784fdaccda7e,arenga.tips,available,15.99,30.99,medium,low,6,namesilo,,,20/09/2026 03:43
 f40213dc-f998-4a9a-bb91-7918003280b2,sculptured.tips,available,12.98,42.48,high,low,10,namecheap,,,20/08/2026 18:52
-e05a2d24-402f-447f-94a5-571eb8e90350,dakar.tips,available,14.99,,high,low,5,name.com,,,
+e05a2d24-402f-447f-94a5-571eb8e90350,dakar.tips,available,24.2,24.2,high,low,5,cloudflare,,,29/09/2026 06:52
 b7ccf93b-df8c-42d6-956a-1c3bb01f620a,diluvian.tips,available,12.98,42.48,medium,low,8,namecheap,,,14/08/2026 07:51
 1885066a-309e-46b4-99b5-57ef922428c7,affecting.tips,available,12.98,42.48,high,low,9,namecheap,,,
 b16fcaaa-588b-4c39-b1e2-904f0cb4a796,toot.tips,available,15.99,30.99,high,low,4,namesilo,,,23/09/2026 01:30
 83dd225a-cffd-46ab-8ad6-792db5ccc58d,addicted.tips,available,15.99,30.99,high,low,8,namesilo,,,21/09/2026 17:07
+9e712381-0c4f-4395-ad2b-5e6a43474608,eos.tips,available,15,,high,low,3,unstoppable,,,29/09/2026 06:47
 128cd257-c4e7-4b44-aa9b-9af04a68daf9,bends.tips,available,12.98,42.48,high,low,5,namecheap,,,23/09/2026 07:50
 4089389b-d738-499d-a0e7-9bb667dbdec0,titus.tips,available,15.99,30.99,high,low,5,namesilo,,,25/09/2026 05:37
 71322338-3f06-4d73-80e0-6db599a6c3df,rein.tips,available,14.99,,high,low,4,name.com,,,
@@ -642,7 +695,8 @@ b902e381-cc44-4c81-b311-bb51ed5981ee,theresa.tips,available,15.99,30.99,high,low
 bb29c66b-c59c-4bf4-bc66-ee1075ec5f26,steadily.tips,available,12.98,42.48,medium,low,8,namecheap,,,10/09/2026 19:32
 a388164a-694e-4666-86c0-84faba94f9a4,tracks.tips,available,15.99,30.99,high,low,6,namesilo,,,17/09/2026 16:05
 b6e49e5e-e24b-41b1-afd5-f759bff63860,beetle.tips,available,12.98,42.48,high,low,6,namecheap,,,09/08/2026 08:17
-9be4163b-e3b7-471a-aa28-ab68809bd45c,jar.tips,available,15.99,30.99,high,low,3,namesilo,,,25/09/2026 11:16
+9be4163b-e3b7-471a-aa28-ab68809bd45c,jar.tips,available,15.99,30.99,high,low,3,namesilo,,,30/09/2026 00:42
+e2ec4260-1439-4cba-bc52-33c3b5425471,gaa.tips,available,15.99,30.99,high,low,3,namesilo,,,29/09/2026 08:40
 344e5137-8939-4f5f-8b40-4b15680b6e1a,remembers.tips,available,24.2,24.2,medium,low,9,cloudflare,,,28/09/2026 00:17
 5df76f36-772d-4110-8842-49d7f63f6d15,harder.tips,available,12.98,42.48,medium,low,6,namecheap,,,26/09/2026 03:10
 56a83f05-0b87-46d0-8200-ea1fbb403969,impudent.tips,available,12.98,42.48,medium,low,8,namecheap,,,18/08/2026 08:23
@@ -653,7 +707,9 @@ d9b8de3b-93d0-48dd-8897-ce00e54c817d,stupidly.tips,available,12.98,42.48,medium,
 1504eef8-4b09-4cd0-aab7-f648029954d8,azactam.tips,available,15.99,30.99,medium,low,7,namesilo,,,21/09/2026 10:59
 494a66b6-8aef-4356-b3c6-ca05e38c6a0b,deplorable.tips,available,12.98,42.48,medium,low,10,namecheap,,,12/08/2026 20:22
 8546e15b-b78a-4497-9c87-4de842314f85,catkinate.tips,available,12.98,42.48,medium,low,9,namecheap,,,11/08/2026 22:09
+18dbe6d5-2ff7-4d53-8d1a-dd73ade72771,contests.tips,available,15,,medium,low,8,unstoppable,,,30/09/2026 00:34
 7a58c101-84ec-4b9e-b8b8-a4bc7fd4a5d9,fogy.tips,available,12.98,42.48,medium,low,4,namecheap,,,18/08/2026 13:08
+d808a136-b77b-4deb-86de-0d11b86f0ed7,astm.tips,available,11.59,25.04,medium,low,4,spaceship,,,29/09/2026 15:16
 627ee594-829c-4cd2-98fa-8c4622d71abd,flatulent.tips,available,12.98,42.48,medium,low,9,namecheap,,,12/08/2026 16:34
 78d24838-bbeb-4807-859e-a2af4af838d3,transcend.tips,available,12.98,42.48,high,low,9,namecheap,,,11/09/2026 17:23
 c89f05c1-9e60-41d4-9b5d-bd06f4002bb6,dealer.tips,available,15.99,30.99,high,low,6,namesilo,,,22/09/2026 05:35
@@ -668,17 +724,19 @@ b1e8e82f-2993-41f3-bc4c-358342d3d99e,deciphered.tips,available,12.98,42.48,high,
 968027d8-653b-4806-a6d7-1f138cabbcc8,prettiest.tips,available,15.99,30.99,medium,low,9,namesilo,,,18/09/2026 03:32
 75c6cbca-5200-40e0-b270-ab30d49336d3,assyrian.tips,available,15.99,30.99,high,low,8,namesilo,,,20/09/2026 16:49
 29377537-0eb1-4501-a7c8-1b67f9c6fdba,banister.tips,available,15.99,30.99,medium,low,8,namesilo,,,22/09/2026 00:28
+67b08395-d4cc-44c5-9011-03c75748bafa,contraction.tips,available,11.59,25.04,high,low,11,spaceship,,,29/09/2026 10:10
 83452996-7a24-47a9-8068-bf63095247cc,unlovable.tips,available,12.98,42.48,medium,low,9,namecheap,,,12/09/2026 15:08
 f055a058-abf1-460a-afc9-1e951f1307f0,giddy.tips,available,12.98,42.48,medium,low,5,namecheap,,,
 271ba533-2673-40a9-abdf-4fac06457073,stupefied.tips,available,14.99,39.99,medium,low,9,name.com,,,13/08/2026 18:55
 72b25889-b1f3-4a39-9d6b-963bc5fd8f0e,berber.tips,available,15.99,30.99,high,low,6,namesilo,,,23/09/2026 09:07
 b3414e0d-dd27-4c66-b4f2-6f3fb22d822a,alvarado.tips,available,11.59,25.04,medium,low,8,spaceship,,,28/09/2026 16:06
+ec6f76d5-a31e-4845-82d3-a2dfbb9c72fc,trajan.tips,available,15,,medium,low,6,unstoppable,,,30/09/2026 02:13
 3592f4cf-6876-4b9d-813d-6efbd8bb901f,reward.tips,resell,,,high,low,6,"NameCheap, Inc.",05/07/2015 19:55,05/07/2027 19:55,26/09/2026 08:40
 f7c3ccb1-ec4d-47b1-976b-bcf92f96a2c7,fizzle.tips,available,12.98,42.48,medium,low,6,namecheap,,,11/08/2026 11:19
 df0e0f2c-a26b-4ef9-a6b5-fa863bdcd6d9,guarnieri.tips,available,15.99,30.99,medium,low,9,namesilo,,,19/09/2026 04:23
 08c86ccf-5012-421c-b405-b7a1911dca15,swaps.tips,available,15.99,30.99,medium,low,5,namesilo,,,18/09/2026 22:39
 e3320f17-7d8e-4b18-b8bc-01c5f4909928,greenside.tips,available,12.98,42.48,medium,low,9,namecheap,,,20/08/2026 19:54
-279eda66-bf7a-443d-bd35-f82b3e719255,know.tips,available,14.99,,high,low,4,name.com,,,
+279eda66-bf7a-443d-bd35-f82b3e719255,know.tips,available,15,,high,low,4,unstoppable,,,29/09/2026 20:04
 4c34444d-1060-42a2-bf74-71292b23fbcd,disinfection.tips,available,12.98,42.48,high,low,12,namecheap,,,17/09/2026 16:37
 46ac65c1-1da7-4073-aefe-f5971b4e7016,deductive.tips,available,12.98,42.48,medium,low,9,namecheap,,,13/08/2026 22:29
 09f316a0-7487-4872-898f-72ecd7e70461,prairie.tips,available,14.99,,high,low,7,name.com,,,
@@ -692,15 +750,14 @@ e98f47ff-8905-4663-8587-e67143a15111,fit.tips,resell,,,high,medium,3,united-doma
 3ab5dc96-da54-45a3-a0a0-75b2635f7a05,topped.tips,available,12.98,42.48,medium,low,6,namecheap,,,11/09/2026 17:53
 ce51fc01-3530-4197-9ae9-f9a4e85069d5,autosexing.tips,available,14.99,39.99,medium,low,10,name.com,,,21/09/2026 07:42
 5f495a5d-9b12-4bba-9a03-dcc31b6cbc3d,bosky.tips,available,12.98,42.48,medium,low,5,namecheap,,,10/08/2026 20:17
-e5759f5e-f528-4d2d-b3f3-97155bb820aa,kilobyte.tips,available,14.99,,high,low,8,name.com,,,
+e5759f5e-f528-4d2d-b3f3-97155bb820aa,kilobyte.tips,available,11.59,25.04,high,low,8,spaceship,,,30/09/2026 01:18
 3798854c-906f-43ba-9736-3059e6d58ebf,ideational.tips,available,12.98,42.48,medium,low,10,namecheap,,,12/08/2026 19:59
 cd881620-8a54-4ed4-9bdc-8b052fac5393,cottony.tips,available,12.98,42.48,medium,low,7,namecheap,,,13/08/2026 03:26
-cc1ea0ad-4282-47a5-a19b-1715f9f0edd9,downscale.tips,available,12.98,42.48,medium,low,9,namecheap,,,14/08/2026 17:52
+cc1ea0ad-4282-47a5-a19b-1715f9f0edd9,downscale.tips,available,12.98,42.48,high,low,9,namecheap,,,14/08/2026 17:52
 bea1c1b0-6df8-4941-ab0f-ed96ea656e63,untaped.tips,available,12.98,42.48,low,low,7,namecheap,,,12/09/2026 10:16
 ea0efa90-65fa-4544-978d-ed2efa838db7,migrator.tips,available,12.98,42.48,medium,low,8,namecheap,,,24/08/2026 22:51
 484fc51d-6d11-48e4-bb5f-afb6bdb91961,scooped.tips,available,12.98,42.48,medium,low,7,namecheap,,,17/09/2026 23:31
 ff0a60e8-9c4e-4a89-9938-929dab386efb,toll.tips,available,,,high,medium,4,,,,
-b85c1bd2-1829-409d-8935-36137876121a,ford.tips,available,,,high,high,4,,,,
 b40c01c6-3cbb-42aa-ad4c-470bb82eac96,selective.tips,available,12.98,42.48,high,low,9,namecheap,,,10/09/2026 01:58
 98c298d9-7ac8-43ab-9572-6e1a47235ebf,vividly.tips,available,15.99,30.99,high,low,7,namesilo,,,16/09/2026 11:06
 bd726f25-f335-4c0f-b6ba-fef2760b11ad,occupations.tips,available,15.99,30.99,medium,low,11,namesilo,,,16/09/2026 10:00
@@ -725,9 +782,11 @@ f21cd7e5-9389-4a9a-b3fd-9e3cdc61c2da,winking.tips,available,12.98,42.48,high,low
 6d35fb09-b8c3-471d-b32a-755378254069,toothed.tips,available,12.98,42.48,medium,low,7,namecheap,,,17/08/2026 12:41
 a10f8806-4a58-4629-b3a0-04e5cf2eaa33,confirms.tips,available,8.24,25.9,low,low,8,dynadot,,,29/09/2026 05:49
 2c9455a2-16b3-4d00-9b9e-d138679fbae6,supermarket.tips,available,14.99,,high,low,11,name.com,,,
+ef920950-ee1d-4924-835e-2ff9d69eb38f,josie.tips,available,12.98,42.48,high,low,5,namecheap,,,29/09/2026 21:56
 1bba5201-71f0-4276-885f-48953f57de5d,gallantly.tips,available,12.98,42.48,medium,low,9,namecheap,,,14/09/2026 06:45
 e2c31a40-8a19-426d-8bc7-8ff07c2df597,gnarly.tips,available,12.98,42.48,medium,low,6,namecheap,,,20/08/2026 15:38
 c18b7b7e-b6e8-48f8-9198-0a84e68eaab1,consecrate.tips,available,12.98,42.48,high,low,10,namecheap,,,12/08/2026 22:25
+ed06980a-ad53-4f51-b313-1f87e5d67f7e,braddock.tips,available,15.99,30.99,medium,low,8,namesilo,,,29/09/2026 15:49
 f66554d7-6b46-4cdb-afb4-5d0b27eb806d,unscalable.tips,available,12.98,42.48,medium,low,10,namecheap,,,12/09/2026 05:23
 3df914dc-59eb-4e1c-94a5-acc133a638a9,counting.tips,available,12.98,42.48,high,low,8,namecheap,,,25/09/2026 04:26
 0399f338-0d81-4a8a-8945-b582c73e7243,aramaic.tips,available,12.98,42.48,medium,low,7,namecheap,,,06/08/2026 12:13
@@ -735,30 +794,33 @@ c162e141-6c3b-4657-b59a-e64c5196f440,gaily.tips,available,12.98,42.48,medium,low
 da928011-6d5d-4098-aa67-6bfec4441771,horrified.tips,available,12.98,42.48,medium,low,9,namecheap,,,21/08/2026 14:14
 14a7b8ed-98f0-4ce7-b2a3-1b75d714a1c7,notwithstanding.tips,available,14.99,,medium,low,15,name.com,,,
 1a8343e1-abfd-4d0b-b206-180aca4bbb3f,bhang.tips,available,15.99,30.99,medium,low,5,namesilo,,,23/09/2026 12:34
-c3e07b7c-319e-42f4-874a-72656d7addbc,amble.tips,available,15.99,30.99,medium,low,5,namesilo,,,18/09/2026 16:54
+c3e07b7c-319e-42f4-874a-72656d7addbc,amble.tips,available,15.99,30.99,high,low,5,namesilo,,,18/09/2026 16:54
 26a465da-0783-4f33-a23b-b56cc021e4d9,squatting.tips,available,12.98,42.48,medium,low,9,namecheap,,,10/09/2026 17:35
+b1478e22-76ff-4ce5-bb8f-cb3c0cc991c5,wick.tips,available,11.59,25.04,high,low,4,spaceship,,,29/09/2026 14:07
 f5e3b03b-1e10-4911-b7be-584ea6fba255,gauche.tips,available,12.98,42.48,medium,low,6,namecheap,,,18/08/2026 20:41
+bf3e4c68-2bec-40d6-ba15-c6c05c6b2251,kota.tips,available,15,,high,low,4,unstoppable,,,30/09/2026 02:06
 a125ac78-0ce7-4dc5-b1be-0a3a9f48e9ca,bialy.tips,available,15.99,30.99,medium,low,5,namesilo,,,23/09/2026 12:41
 75be5932-5205-4689-a6a3-7c388342d08d,usb.tips,available,11.59,25.04,high,low,3,spaceship,,,28/09/2026 03:21
 7c6b53f5-3432-496c-b62f-43a729aea83c,recusant.tips,available,12.98,42.48,medium,low,8,namecheap,,,14/08/2026 12:28
 cfda642a-4699-42d0-8430-aedc611b9b9a,ungummed.tips,available,12.98,42.48,low,low,8,namecheap,,,12/09/2026 11:43
 15bdc449-6aaa-4e68-95aa-995ec5fe16fc,dusts.tips,available,15.99,30.99,low,low,5,namesilo,,,21/09/2026 01:44
-94ab97cf-bae2-4176-b0cc-fa60fee3749c,fueled.tips,available,12.98,42.48,medium,low,6,namecheap,,,18/08/2026 17:37
+94ab97cf-bae2-4176-b0cc-fa60fee3749c,fueled.tips,available,12.98,42.48,high,low,6,namecheap,,,18/08/2026 17:37
 0541e16d-ca86-41ae-91ce-d569ee13f7a1,amer.tips,available,11.59,25.04,medium,low,4,spaceship,,,28/09/2026 17:41
 413345fc-76c7-45e6-8e49-522db5c449b4,activator.tips,available,15.99,30.99,high,low,9,namesilo,,,17/09/2026 05:10
 d002b68f-080d-4a19-945e-c8508d1c1e54,orbitual.tips,available,12.98,42.48,medium,low,8,namecheap,,,04/09/2026 17:39
 ba027fbf-b3a6-4623-8026-ac23cb34110e,divided.tips,available,12.98,42.48,medium,low,7,namecheap,,,14/08/2026 13:42
+2cfcdcf2-b053-4e09-9ab0-1462745adc1b,southwark.tips,available,15.99,30.99,medium,low,9,namesilo,,,29/09/2026 09:21
 bcbbc6b7-674e-4c26-86ad-01b2d9038a5d,inaudible.tips,available,12.98,42.48,medium,low,9,namecheap,,,22/08/2026 00:33
 29a4cf40-38ad-4afe-8029-d19d869b4e6a,beeper.tips,available,15.99,30.99,high,low,6,namesilo,,,23/09/2026 01:31
 9807dc98-5f0c-4a24-8bf3-ca65fcde4290,zambian.tips,available,12.98,42.48,high,low,7,namecheap,,,13/09/2026 15:05
-a407555c-5b97-4ac2-b429-17a5617e6fa4,educate.tips,available,15.99,30.99,high,low,7,namesilo,,,27/09/2026 02:25
-db3cffdf-74d7-4533-9ea4-983fd5dfa479,occasional.tips,available,8.24,25.9,medium,low,10,dynadot,,,28/09/2026 11:16
+a407555c-5b97-4ac2-b429-17a5617e6fa4,educate.tips,available,15.99,30.99,high,low,7,namesilo,,,29/09/2026 14:27
+db3cffdf-74d7-4533-9ea4-983fd5dfa479,occasional.tips,available,8.24,25.9,high,low,10,dynadot,,,28/09/2026 11:16
 bfa6047d-9a4d-485d-907b-a3a8583af022,aphid.tips,available,15.99,30.99,medium,low,5,namesilo,,,19/09/2026 16:56
 1c59e9a7-9189-436a-947f-790eab57da72,acantha.tips,available,12.98,42.48,medium,low,7,namecheap,,,16/09/2026 20:38
 357270ec-851e-45aa-ae4b-c06ef0c3b267,otis.tips,available,15.99,30.99,high,low,4,namesilo,,,25/09/2026 05:28
 cf7fefca-0ac3-42da-9bd2-79433096edff,unfixed.tips,available,12.98,42.48,medium,low,7,namecheap,,,12/09/2026 10:28
 4b96e7df-d7a2-4c55-a738-f3a6c95784a8,advantages.tips,available,15.99,30.99,medium,low,10,namesilo,,,17/09/2026 07:07
-7b31506b-b2eb-439d-851d-be685c074d9d,conference.tips,available,14.99,,high,low,10,name.com,,,
+7b31506b-b2eb-439d-851d-be685c074d9d,conference.tips,available,15.99,30.99,high,low,10,namesilo,,,29/09/2026 10:52
 9dd0f079-0600-422c-8cb7-08b1861fb2b2,baritone.tips,available,12.98,42.48,medium,low,8,namecheap,,,08/08/2026 19:36
 63241b58-f47c-44fd-8aec-c073c14f2fe4,griffon.tips,available,15.99,30.99,medium,low,7,namesilo,,,23/09/2026 05:02
 a0ade2d0-f7d8-491e-ab58-2b581bcfaefd,unclothed.tips,available,12.98,42.48,medium,low,9,namecheap,,,12/09/2026 05:30
@@ -766,22 +828,25 @@ a0ade2d0-f7d8-491e-ab58-2b581bcfaefd,unclothed.tips,available,12.98,42.48,medium
 23ac9823-e432-4787-848b-08d242e7079b,resisting.tips,available,11.59,25.04,medium,low,9,spaceship,,,28/09/2026 21:16
 7f8552c1-65bd-4917-a45c-1f006a2c510a,anthesis.tips,available,12.98,42.48,high,low,8,namecheap,,,18/08/2026 09:06
 fde7b629-6bb6-44c8-9d96-a5277674f256,laboured.tips,available,12.98,42.48,medium,low,8,namecheap,,,22/08/2026 17:40
-c4329bbd-658c-4606-82de-ccf914c1f690,electoral.tips,available,12.98,42.48,medium,low,9,namecheap,,,16/08/2026 02:37
+c4329bbd-658c-4606-82de-ccf914c1f690,electoral.tips,available,12.98,42.48,high,low,9,namecheap,,,16/08/2026 02:37
 a1aa0182-3110-4c70-b9fd-7fc8b7642798,expectant.tips,available,12.98,42.48,high,low,9,namecheap,,,22/09/2026 06:48
 d3d3d84a-c495-4b73-b36e-f3d512005c46,pepper.tips,available,15.99,30.99,high,low,6,namesilo,,,24/09/2026 01:22
 cf5a54a5-9f5b-4a8c-9faf-784b088514cf,bandit.tips,available,15.99,30.99,high,low,6,namesilo,,,22/09/2026 01:19
 663c06b8-f575-46c7-a262-11399862788e,vented.tips,available,12.98,42.48,medium,low,6,namecheap,,,13/09/2026 02:12
-0158d172-55bd-47a2-844d-e80d5c84471f,kigali.tips,available,15.99,30.99,medium,low,6,namesilo,,,24/09/2026 12:21
+0158d172-55bd-47a2-844d-e80d5c84471f,kigali.tips,available,15.99,30.99,high,low,6,namesilo,,,24/09/2026 12:21
 277e6aa6-f070-4b07-97a4-13f5f726d700,secured.tips,available,14.99,,high,low,7,name.com,,,
 aa480f76-5be2-465c-a181-12271e20585a,cloggy.tips,available,12.98,42.48,medium,low,6,namecheap,,,12/08/2026 11:46
 2de2ee0d-1acb-422e-9d01-ba7745556a2b,bantu.tips,available,12.98,42.48,medium,low,5,namecheap,,,08/08/2026 14:50
 f21bd50c-9180-4bb1-be14-350b7f2ba597,nights.tips,available,15.99,30.99,high,low,6,namesilo,,,17/09/2026 22:10
+158011ba-29b5-40ff-935a-79c0b1494ff9,logged.tips,available,15,,medium,low,6,unstoppable,,,29/09/2026 16:39
 78de0a70-1477-40ec-aedc-ff174bd48152,rodgers.tips,available,15.99,30.99,high,low,7,namesilo,,,25/09/2026 10:22
 a7faa7e4-0a71-43d7-8a38-990e087e1028,impala.tips,available,15.99,30.99,medium,low,6,namesilo,,,17/09/2026 12:44
 f15cb4ed-768a-4dfd-b643-54a9e8d91e9c,tasmanian.tips,available,12.98,42.48,high,low,9,namecheap,,,11/09/2026 08:50
 218441d1-a8ea-4a53-813a-2c996a435271,slavery.tips,available,12.98,42.48,high,low,7,namecheap,,,10/09/2026 10:30
 f053504a-3af8-4339-a067-bdfbeef956d0,grand.tips,available,15.99,30.99,high,low,5,namesilo,,,21/09/2026 11:05
+248846ca-881d-439c-ae81-41aa9c3ecd28,lui.tips,available,15,,medium,low,3,unstoppable,,,29/09/2026 15:19
 712ff8eb-f0be-43d6-a5c6-51c53f12cf35,owing.tips,available,14.99,,medium,low,5,name.com,,,
+ce089e7a-3cb2-4061-bf82-fdc8b812a129,homosexuality.tips,available,11.59,25.04,medium,low,13,spaceship,,,29/09/2026 10:16
 a137b08f-e583-49bb-982c-b352377abb1a,integral.tips,available,12.98,42.48,high,low,8,namecheap,,,23/09/2026 10:33
 df120d90-1d0b-4e45-a866-c513101b56c5,adh.tips,available,14.99,39.99,high,low,3,name.com,,,17/09/2026 07:56
 81ebcc96-0e71-455f-81a5-cd9fcc57a660,admirer.tips,available,12.98,42.48,high,low,7,namecheap,,,17/09/2026 08:56
@@ -799,8 +864,9 @@ d3b7e18a-3d32-4520-bc0c-217558b7a751,rebellious.tips,available,12.98,42.48,mediu
 637eef47-4646-4b03-ba4f-89ac47d4a02a,mainz.tips,available,8.24,25.9,high,low,5,dynadot,,,28/09/2026 03:51
 05da3dcc-b0a3-4bf8-8306-4c1f4ed36b5a,janet.tips,available,14.99,39.99,high,low,5,name.com,,,25/09/2026 13:29
 7280fc08-6acd-49c3-b63c-5d4c39f98538,cryogenic.tips,available,12.98,42.48,medium,low,9,namecheap,,,13/08/2026 09:35
-be289b58-1031-4028-9167-76d5fa0189e0,churchman.tips,available,12.98,42.48,medium,low,9,namecheap,,,14/08/2026 23:29
+be289b58-1031-4028-9167-76d5fa0189e0,churchman.tips,available,12.98,42.48,high,low,9,namecheap,,,14/08/2026 23:29
 4139e28e-f39f-4536-a81c-d2a4330ef5f0,unread.tips,available,12.98,42.48,high,low,6,namecheap,,,12/09/2026 17:51
+806e3778-89d0-47cf-93ac-9ac27ff4547a,marking.tips,available,11.59,25.04,high,low,7,spaceship,,,29/09/2026 07:33
 9304204f-3676-4f27-805a-d34544ed888f,jules.tips,available,15.99,30.99,high,low,5,namesilo,,,25/09/2026 15:01
 883d3afd-5413-4575-8e89-cc380e09e2a0,repaired.tips,available,12.98,42.48,medium,low,8,namecheap,,,28/09/2026 23:01
 a7f51a47-0a3f-40fe-8e09-adbd458ae5cb,barberry.tips,available,15.99,30.99,medium,low,8,namesilo,,,22/09/2026 04:51
@@ -816,27 +882,29 @@ e228e103-0bf3-4cb3-a064-bb31b8ce6e2c,segal.tips,available,11.59,25.04,medium,low
 7f16ad52-1dd9-4cde-bfb8-d5df7f173e14,arcsec.tips,available,15.99,30.99,medium,low,6,namesilo,,,20/09/2026 01:25
 dae47e27-512d-4dcc-b28c-0b292f43e934,weismann.tips,available,15.99,30.99,medium,low,8,namesilo,,,21/09/2026 03:48
 1f2f2b29-e7c1-4e18-a392-ce75c81966e2,evasive.tips,available,12.98,42.48,medium,low,7,namecheap,,,17/08/2026 14:47
-06a34de4-02ba-441e-aecb-f63b45f568a3,kepler.tips,available,15.99,30.99,medium,low,6,namesilo,,,29/09/2026 01:24
+06a34de4-02ba-441e-aecb-f63b45f568a3,kepler.tips,available,15.99,30.99,high,low,6,namesilo,,,29/09/2026 01:24
 3ad32651-194a-4afd-8eaa-b54bc79c97fd,profane.tips,available,12.98,42.48,high,low,7,namecheap,,,10/08/2026 13:22
 bc088503-9531-43b2-af6f-66c3bf47ce6e,inculpable.tips,available,12.98,42.48,medium,low,10,namecheap,,,10/08/2026 12:55
 018de0db-ab9d-4728-8dc0-d9e36861871e,allocator.tips,available,15.99,30.99,high,low,9,namesilo,,,18/09/2026 11:47
 beb6590f-3da3-4ad5-b628-58ffa69cfd4e,nord.tips,available,11.59,25.04,high,low,4,spaceship,,,27/09/2026 18:56
 5d6d2985-fdd9-42e9-aa21-08c9a421295a,barricade.tips,available,15.99,30.99,medium,low,9,namesilo,,,22/09/2026 08:32
-db2a998c-568b-4c43-9083-b6e1031029dd,malawian.tips,available,12.98,42.48,medium,low,8,namecheap,,,24/08/2026 13:40
+db2a998c-568b-4c43-9083-b6e1031029dd,malawian.tips,available,12.98,42.48,high,low,8,namecheap,,,24/08/2026 13:40
 5f3d3414-6e05-4bc1-bc63-6f9c44ef1b93,freehand.tips,available,12.98,42.48,high,low,8,namecheap,,,18/08/2026 14:55
-981088d0-7e08-4c9d-abcf-65f9643768af,cannabis.tips,resell,,,high,medium,8,Dynadot Inc,16/08/2026 19:34,16/08/2027 19:34,26/09/2026 04:44
+981088d0-7e08-4c9d-abcf-65f9643768af,cannabis.tips,resell,,,high,medium,8,Dynadot Inc,16/08/2026 19:34,16/08/2027 19:34,29/09/2026 06:36
+791f103f-bb6f-4c92-ad0a-5737d96f1536,lindbergh.tips,available,15,,medium,low,9,unstoppable,,,29/09/2026 06:20
 67cee964-b8d0-48b7-bb9f-8bbc83511c8a,ballpark.tips,available,15.99,30.99,high,low,8,namesilo,,,19/09/2026 22:25
 2ebba9a3-5b2e-4058-bbf5-c891796c262b,racing.tips,resell,,,high,low,6,"GoDaddy.com, LLC",14/07/2015 13:42,14/07/2027 13:42,26/09/2026 08:28
 8ba88f75-68bd-4b45-8667-0d93c1f3109a,oozing.tips,available,12.98,42.48,medium,low,6,namecheap,,,04/09/2026 15:28
 8c453fac-ef79-4755-acdb-267baf134bab,ascensive.tips,available,12.98,42.48,medium,low,9,namecheap,,,07/08/2026 00:46
 73c9e1d3-d831-4c3c-81f4-79923a2d4c8e,adiposity.tips,available,15.99,30.99,medium,low,9,namesilo,,,17/09/2026 08:19
-b7436736-631c-4f1a-b604-f822ed92d431,intrigue.tips,available,14.99,,high,low,8,name.com,,,
+b7436736-631c-4f1a-b604-f822ed92d431,intrigue.tips,available,15.99,30.99,high,low,8,namesilo,,,30/09/2026 00:18
 3f9ee99e-0237-401c-9b43-257db162532d,debonnaire.tips,available,14.99,39.99,medium,low,10,name.com,,,13/08/2026 20:46
-80d07cd6-fcd1-4600-8938-1807169bcad0,conceit.tips,available,15.99,30.99,medium,low,7,namesilo,,,18/09/2026 22:51
-5b38e895-6b0b-42a4-8322-d67fb27343d2,begonia.tips,available,15.99,30.99,medium,low,7,namesilo,,,23/09/2026 02:28
+80d07cd6-fcd1-4600-8938-1807169bcad0,conceit.tips,available,15.99,30.99,high,low,7,namesilo,,,18/09/2026 22:51
+5b38e895-6b0b-42a4-8322-d67fb27343d2,begonia.tips,available,15.99,30.99,high,low,7,namesilo,,,23/09/2026 02:28
 4d32ace7-82e6-4e1d-ac34-113d231c9dbc,involvement.tips,available,14.99,,high,low,11,name.com,,,
 48475d26-7f48-48c2-88ed-9ec4e3422331,wroth.tips,available,12.98,42.48,medium,low,5,namecheap,,,13/09/2026 13:38
-ff1a6051-a817-4416-8a0d-f2bf16f11bea,weigh.tips,available,24.2,24.2,medium,low,5,cloudflare,,,28/09/2026 02:22
+5882805e-589a-4b73-8532-2936bdae2b8a,canterbury.tips,available,11.59,25.04,high,low,10,spaceship,,,29/09/2026 18:10
+ff1a6051-a817-4416-8a0d-f2bf16f11bea,weigh.tips,available,24.2,24.2,high,low,5,cloudflare,,,28/09/2026 02:22
 db604a7a-a09e-44ab-9a6b-0fdfd9fbff26,utterly.tips,available,15.99,30.99,medium,low,7,namesilo,,,28/09/2026 11:39
 0404202d-9b20-4c02-a661-7ca89967f675,achaean.tips,available,12.98,42.48,medium,low,7,namecheap,,,
 b8eccec9-87f0-47d2-9721-4b58d25fa627,launching.tips,available,11.59,25.04,high,low,9,spaceship,,,29/09/2026 00:37
@@ -845,7 +913,7 @@ d0e4934c-9e6c-44fa-bcd9-0900b0c58d00,assessment.tips,available,24.2,24.2,high,lo
 89a3445f-1a05-4bfe-959f-49f169369724,withdrawn.tips,available,12.98,42.48,medium,low,9,namecheap,,,22/08/2026 03:25
 f89dd7e5-e6a0-42dd-88a3-42dce56e0edf,anorectal.tips,available,12.98,42.48,medium,low,9,namecheap,,,
 7759368a-6678-41d1-b96a-4d1ea770ed50,career.tips,premium,207.2,207.2,high,low,6,spaceship,,,29/09/2026 05:57
-d4d2eb9a-6700-4448-8773-eb69d023d961,contest.tips,available,14.99,,high,low,7,name.com,,,
+d4d2eb9a-6700-4448-8773-eb69d023d961,contest.tips,available,11.59,25.04,high,low,7,spaceship,,,29/09/2026 11:25
 a52cbd5a-5f02-4db7-b919-aa7045f230b1,widen.tips,available,14.99,,high,low,5,name.com,,,
 e53b9e00-1839-42b6-8a0e-67f92c02d07c,overmuch.tips,available,12.98,42.48,medium,low,8,namecheap,,,04/09/2026 21:13
 02c3215a-d041-4ca9-8c01-c66da1be53db,murillo.tips,available,15.99,30.99,high,low,7,namesilo,,,22/09/2026 09:24
@@ -856,7 +924,7 @@ afa6e574-f138-4ba7-9b8b-ac51f5399792,contraband.tips,available,12.98,42.48,high,
 2ee9fc51-556b-42a7-8431-3743b9bec712,gouty.tips,available,12.98,42.48,medium,low,5,namecheap,,,20/08/2026 17:18
 577051dc-d5d7-4973-b831-bb322862e235,lease.tips,premium,512,512,high,low,5,namesilo,,,09/09/2026 14:19
 38f9f9f0-6f3c-40ac-aa1f-6d38225f210c,scored.tips,available,15.99,30.99,medium,low,6,namesilo,,,27/09/2026 23:20
-0b276b8c-6329-4ad3-9c4b-fc743814a890,developer.tips,resell,,,high,low,9,"Name.com, Inc.",23/07/2015 22:11,23/07/2027 22:11,26/09/2026 05:31
+0b276b8c-6329-4ad3-9c4b-fc743814a890,developer.tips,resell,,,high,medium,9,"Name.com, Inc.",23/07/2015 22:11,23/07/2027 22:11,29/09/2026 14:33
 3fa945ac-7f9c-480c-bc1a-fa059cb248a8,ironic.tips,available,15.99,30.99,high,low,6,namesilo,,,25/09/2026 11:21
 78b49ab8-6abc-4bb2-9117-13e0dd50f3ea,breslau.tips,available,15,,medium,low,7,unstoppable,,,28/09/2026 18:29
 33209142-0dbd-42cc-a39a-c371252f4dde,downy.tips,available,12.98,42.48,high,low,5,namecheap,,,14/08/2026 17:40
@@ -876,12 +944,13 @@ aeb9fe08-253c-4249-b83a-0c80626fe3d4,unwrinkled.tips,available,12.98,42.48,mediu
 56d3d1d9-880d-4dfc-b89e-8bd09474ef8e,inquirer.tips,available,12.98,42.48,high,low,8,namecheap,,,20/09/2026 14:22
 d9302676-00dc-45b7-a9c1-a33e11a8071f,swings.tips,available,11.59,25.04,medium,low,6,spaceship,,,29/09/2026 05:46
 84a98e93-42ce-43ef-9c36-58b30197c635,boyd.tips,available,15.99,30.99,high,low,4,namesilo,,,25/09/2026 14:55
-e7d96c9d-73cc-4979-8f89-dc5efa3a296d,usgs.tips,available,11.59,25.04,medium,low,4,spaceship,,,28/09/2026 03:54
+e7d96c9d-73cc-4979-8f89-dc5efa3a296d,usgs.tips,available,11.59,25.04,high,low,4,spaceship,,,28/09/2026 03:54
 939cd60a-f639-4d1c-bd1c-5b4db8eca845,snotty.tips,available,12.98,42.48,medium,low,6,namecheap,,,09/08/2026 20:42
 7ecc52f5-53ff-4107-9261-fbe938b6c589,atavistic.tips,available,12.98,42.48,low,low,9,namecheap,,,07/08/2026 12:55
 09190a70-1625-49e9-a8d1-8dd129519ad9,christopher.tips,available,12.98,42.48,high,low,11,namecheap,,,25/09/2026 13:15
 fb96f4ca-c085-4553-8768-624fa93858cb,practically.tips,available,15.99,30.99,high,low,11,namesilo,,,25/09/2026 11:39
 42029824-2cee-45de-a896-a73437ba1343,fawning.tips,available,12.98,42.48,medium,low,7,namecheap,,,10/08/2026 19:43
+89be5648-bbc2-4c9e-98ed-72ca9603dbc4,ivor.tips,available,11.59,25.04,high,low,4,spaceship,,,29/09/2026 22:08
 1e6539be-de60-43c4-9f80-088e0f4ecf89,acuity.tips,available,15.99,30.99,high,low,6,namesilo,,,17/09/2026 05:29
 1320ea1a-051e-40ba-bcf4-4272597e88d7,choking.tips,available,15.99,30.99,medium,low,7,namesilo,,,24/09/2026 14:44
 bcadc099-351f-4c4f-8020-013511479990,calculates.tips,available,15.99,30.99,medium,low,10,namesilo,,,21/09/2026 10:23
@@ -889,113 +958,44 @@ bcadc099-351f-4c4f-8020-013511479990,calculates.tips,available,15.99,30.99,mediu
 8d45ac90-00b3-41b6-a647-42611f5c66fd,unscripted.tips,available,12.98,42.48,medium,low,10,namecheap,,,12/09/2026 19:05
 11d95635-54b2-4539-b94f-ced2bc1e18a9,angevine.tips,available,15.99,30.99,medium,low,8,namesilo,,,19/09/2026 06:07
 5fdbfd95-65b2-41fd-946d-820c3d380569,former.tips,available,12.98,42.48,high,low,6,namecheap,,,24/09/2026 21:24
-06ee1bb5-f6e9-4fec-9141-133c39aceeec,introspection.tips,available,15.99,30.99,medium,low,13,namesilo,,,17/09/2026 06:54
+06ee1bb5-f6e9-4fec-9141-133c39aceeec,introspection.tips,available,15.99,30.99,high,low,13,namesilo,,,17/09/2026 06:54
 ecdcf63e-d1f8-4b2e-8b8d-cc2da605aa03,shiner.tips,available,15.99,30.99,medium,low,6,namesilo,,,24/09/2026 00:40
 90630c64-9ebc-4190-8ede-252fea60d5c6,acoustic.tips,available,12.98,42.48,high,low,8,namecheap,,,
-14877c18-d149-40fe-9333-0cc737b6c8b0,dorsum.tips,available,12.98,42.48,medium,low,6,namecheap,,,08/08/2026 05:12
+14877c18-d149-40fe-9333-0cc737b6c8b0,dorsum.tips,available,12.98,42.48,high,low,6,namecheap,,,08/08/2026 05:12
 6213315f-b097-44ff-9a3c-adbd41cb4a0b,foreign.tips,available,12.98,42.48,high,low,7,namecheap,,,
-853eec67-93af-4ccd-9b03-a881cf371419,churning.tips,available,12.98,42.48,medium,low,8,namecheap,,,12/08/2026 07:51
+853eec67-93af-4ccd-9b03-a881cf371419,churning.tips,available,12.98,42.48,high,low,8,namecheap,,,12/08/2026 07:51
 81094df2-d4c3-4acc-84b6-6909495f3b7e,exultant.tips,available,12.98,42.48,high,low,8,namecheap,,,17/08/2026 19:42
 ff53eb61-4614-4555-bd97-edc285527df1,struck.tips,available,12.98,42.48,medium,low,6,namecheap,,,10/09/2026 11:50
 4cd5244e-fcc4-4e13-b24c-f45a030db345,hither.tips,available,12.98,42.48,medium,low,6,namecheap,,,15/09/2026 00:48
 c6f0a3a6-d330-484c-91c6-e63d99ff2a59,allowed.tips,available,14.99,,high,low,7,name.com,,,
-0964c13a-401b-4197-a9c7-5adc3b07bc55,kit.tips,available,15.99,30.99,high,low,3,namesilo,,,25/09/2026 11:26
+0964c13a-401b-4197-a9c7-5adc3b07bc55,kit.tips,available,15.99,30.99,high,medium,3,namesilo,,,30/09/2026 01:37
 974664b5-6eac-4f51-a68a-731229bbeb20,seeming.tips,available,14.99,,high,low,7,name.com,,,
 0ec216d7-5255-4a81-a449-7ba0bedca875,contribution.tips,available,11.59,25.04,high,low,12,spaceship,,,28/09/2026 04:30
+98861e13-7737-47b3-833d-1a1a6fdee799,pes.tips,available,21.99,53.99,high,low,3,godaddy,,,30/09/2026 01:41
+32ca4600-a32d-4046-b281-79ac8b105088,grenades.tips,available,24.2,24.2,low,low,8,cloudflare,,,30/09/2026 00:32
 c64452ad-eb41-4d03-8ae3-6b41be22c9cf,arteria.tips,available,12.98,42.48,high,low,7,namecheap,,,20/09/2026 10:30
 d0c05cac-2b60-45be-b8b7-ce9c2ac818b3,unbarred.tips,available,12.98,42.48,medium,low,8,namecheap,,,12/09/2026 01:34
-0437809d-b83d-4881-b188-eaf6571b5f84,lego.tips,available,,,high,high,4,,,,
 a5a7b729-397e-4717-acf7-78035cf74dad,whiteboard.tips,available,14.99,,high,low,10,name.com,,,
-774cfbc0-e048-4b40-b465-e50a8ba0ac65,adjacency.tips,available,15.99,30.99,medium,low,9,namesilo,,,17/09/2026 08:24
+774cfbc0-e048-4b40-b465-e50a8ba0ac65,adjacency.tips,available,15.99,30.99,high,low,9,namesilo,,,17/09/2026 08:24
 a27a6856-5b52-46ff-976f-ba7e71ae7a5c,gathering.tips,available,15.99,30.99,high,low,9,namesilo,,,20/09/2026 16:00
-ced71c38-1ade-4d07-8765-b6bd023e9c3c,votes.tips,available,15.99,30.99,medium,low,5,namesilo,,,17/09/2026 13:26
+ced71c38-1ade-4d07-8765-b6bd023e9c3c,votes.tips,available,15.99,30.99,high,low,5,namesilo,,,17/09/2026 13:26
 0ce69d87-f5de-4089-8af4-ce09694b56bd,bsc.tips,available,11.59,25.04,high,low,3,spaceship,,,28/09/2026 15:39
 8baf6c37-8983-496c-8d38-f5d3842719a1,barth.tips,available,15.99,30.99,medium,low,5,namesilo,,,22/09/2026 09:03
 a461a8d4-ba83-495a-a940-fed6c07627e7,scrappy.tips,available,12.98,42.48,high,low,7,namecheap,,,09/09/2026 23:48
 771fb9b4-6673-4bd2-8f0c-12fb79de046a,shortness.tips,available,15.99,30.99,medium,low,9,namesilo,,,16/09/2026 17:27
 5357e82f-785a-4490-bcae-f32e605b994e,unbeknown.tips,available,12.98,42.48,medium,low,9,namecheap,,,12/09/2026 01:47
 c43cd18a-d175-4426-9352-cad77ee4fd42,barmy.tips,available,12.98,42.48,medium,low,5,namecheap,,,06/08/2026 20:25
+b15877d9-a13a-41d1-b4f6-68915fd88cf7,chemotherapy.tips,available,11.59,25.04,medium,low,12,spaceship,,,29/09/2026 16:06
 9a42f1ba-5de5-42df-8960-31d1d08d104d,eddie.tips,available,14.99,,high,low,5,name.com,,,
 3c2b4620-3465-44a9-abce-baa04416b6bb,nephew.tips,available,14.99,,high,low,6,name.com,,,
 1a4b8c93-2311-4d21-846c-b7131fda6217,alcaeus.tips,available,15.99,30.99,medium,low,7,namesilo,,,18/09/2026 03:40
-18f275b5-02c0-464a-81a4-226fb1452752,control.tips,available,15.99,30.99,high,low,7,namesilo,,,25/09/2026 05:47
+18f275b5-02c0-464a-81a4-226fb1452752,control.tips,available,24.2,24.2,high,low,7,cloudflare,,,29/09/2026 08:38
 725cd07c-24cd-4ed2-9c53-b2325cf1b8c5,warren.tips,available,11.59,25.04,high,low,6,spaceship,,,29/09/2026 00:43
 5f679bc2-d044-47fd-8b9b-69589cabe39c,biblical.tips,available,12.98,42.48,medium,low,8,namecheap,,,09/08/2026 18:53
 fcb5afbb-6185-44fc-ae05-b6d4a08ca21e,btu.tips,available,12.98,42.48,high,low,3,namecheap,,,21/09/2026 11:58
 ef1c7bb1-c756-4db9-ba4f-036912a85fa1,provides.tips,available,15.99,30.99,medium,low,8,namesilo,,,16/09/2026 11:52
 fe76c736-5caf-4e94-98a3-90e45f7eb931,descend.tips,available,14.99,,high,low,7,name.com,,,
+0c9b48ce-301b-477b-a633-cc88e521dffc,prakash.tips,available,15,,medium,low,7,unstoppable,,,29/09/2026 15:19
 9be79080-251d-496f-a182-144fa39c9354,abbess.tips,available,15.99,30.99,medium,low,6,namesilo,,,16/09/2026 14:23
 8d711b0c-5446-4a76-bc52-8001878d1956,wax.tips,available,14.99,,high,low,3,name.com,,,
 0d2d201a-3d68-4a7c-a85d-270c97da38a7,accidentally.tips,available,11.59,25.04,medium,low,12,spaceship,,,28/09/2026 03:20
-75bc32f1-ada0-40fd-8936-b07a944636d2,choc.tips,available,14.99,,high,low,4,name.com,,,
-2b6780ef-ef7c-4eae-81c1-37359a538f0e,ciliate.tips,available,12.98,42.48,medium,low,7,namecheap,,,12/08/2026 08:06
-4e0ff14a-0c00-4335-9e84-6a4ea9e9cb7f,songbirds.tips,available,15.99,30.99,medium,low,9,namesilo,,,21/09/2026 08:44
-7eee97e8-d732-4d99-914b-14e96088674e,annoy.tips,available,14.99,,medium,low,5,name.com,,,
-8d18ad78-5577-4b78-9287-dd3803fd3c45,whips.tips,available,15.99,30.99,medium,low,5,namesilo,,,17/09/2026 19:42
-17af3c47-aa45-4fa6-91e9-6d439ee40616,negligent.tips,available,12.98,42.48,medium,low,9,namecheap,,,03/09/2026 15:07
-6299967b-b5bd-4c73-866c-34cc007b7a1d,vestal.tips,available,12.98,42.48,medium,low,6,namecheap,,,13/09/2026 04:47
-ee722b9a-fd1c-4e4d-bf8f-488fd6cbb0b4,hebridean.tips,available,12.98,42.48,medium,low,9,namecheap,,,21/08/2026 05:45
-d6a8bece-42bd-4d64-adb5-ad8f68d8c3a1,addictive.tips,available,15.99,30.99,high,low,9,namesilo,,,21/09/2026 17:08
-b5e5db01-bb2a-4179-8f2d-b3b4a76642b3,titanium.tips,available,15.99,30.99,high,low,8,namesilo,,,20/09/2026 22:34
-5239a6e0-adfa-41bb-bdaf-cccc8128f7ff,hone.tips,available,12.98,42.48,high,low,4,namecheap,,,08/09/2026 16:29
-f22a1f2e-72c3-496b-a720-26fd075ac2cf,ignatius.tips,available,15.99,30.99,medium,low,8,namesilo,,,27/09/2026 14:14
-99865425-aa86-4739-abf8-414c007aed0d,blest.tips,available,12.98,42.48,medium,low,5,namecheap,,,10/08/2026 14:15
-885ffe36-8ab3-4375-b20c-7e71be9b1b5b,musset.tips,available,15.99,30.99,medium,low,6,namesilo,,,18/09/2026 06:29
-0de2d545-5b8e-48f8-bf70-88b52cc9e91d,median.tips,available,12.98,42.48,high,low,6,namecheap,,,25/09/2026 18:47
-52262b49-368e-42e5-a532-21c8b3b851aa,cocaine.tips,available,11.59,25.04,high,low,7,spaceship,,,27/09/2026 12:35
-e8f0f19b-3902-4df2-94fd-3258f2434123,storytellers.tips,available,12.98,42.48,high,low,12,namecheap,,,20/09/2026 12:55
-02d30aa7-b68d-4ae7-97d2-343a54c95755,goosebumps.tips,available,14.99,39.99,medium,low,10,name.com,,,19/09/2026 00:04
-c9547b2b-3d44-48f1-8249-c25fdba73c90,rubidium.tips,available,12.98,42.48,medium,low,8,namecheap,,,20/09/2026 22:58
-ce258adf-6cf7-4350-a124-2a9c65c386cc,whereas.tips,available,14.99,,high,low,7,name.com,,,
-0437bbd7-54a0-42e0-a364-f317465ad693,lxiv.tips,available,12.98,42.48,medium,low,4,namecheap,,,
-7c9ed762-6af7-43cc-80f5-44ead89d9780,ported.tips,available,12.98,42.48,high,low,6,namecheap,,,20/09/2026 15:39
-d709e140-64f1-46d2-a197-d99bea2611ec,emmet.tips,available,15.99,30.99,medium,low,5,namesilo,,,19/09/2026 12:15
-64360bdb-b670-4280-8c46-d557fc09962c,ashlar.tips,available,15.99,30.99,high,low,6,namesilo,,,20/09/2026 13:55
-686bd749-eb48-4667-8e88-97fcd13e432d,unreleased.tips,available,12.98,42.48,medium,low,10,namecheap,,,12/09/2026 18:08
-bcce734d-f440-467e-9613-89ecdab3b7f8,surfing.tips,premium,207.2,207.2,high,low,7,spaceship,,,29/09/2026 02:15
-5bf26c7b-cc6f-488a-8128-8ede586277d1,lanka.tips,available,15.99,30.99,high,low,5,namesilo,,,25/09/2026 15:46
-fdbe2b07-718f-41bd-9d79-482df58aa2f8,slippered.tips,available,12.98,42.48,medium,low,9,namecheap,,,10/09/2026 10:59
-48809511-b574-44bb-9666-f5b0f89143a3,hieroglyph.tips,available,12.98,42.48,medium,low,10,namecheap,,,21/08/2026 08:33
-140d3db3-a398-4fc8-b14e-e94793262bcd,roi.tips,available,14.99,,high,low,3,name.com,,,
-070fbf3d-9f19-4337-9b5b-a1ef80104a9d,gustave.tips,available,8.24,25.9,medium,low,7,dynadot,,,28/09/2026 09:09
-e41f94fd-180b-4fd2-b5a6-3722150792da,luca.tips,available,11.59,25.04,high,medium,4,spaceship,,,28/09/2026 07:26
-672b2d38-4ba0-4611-94a0-0b1836d04cd4,fingers.tips,available,14.99,,medium,low,7,name.com,,,
-f9ba3601-f151-477c-8d9e-ff61344ef472,stepping.tips,available,12.98,42.48,high,low,8,namecheap,,,16/09/2026 15:33
-fe6ede3b-0d1d-4332-8a1b-948a7733b306,escaping.tips,available,15,,high,low,8,unstoppable,,,28/09/2026 21:14
-b78ce7cc-65d9-4e98-8df6-fb9b8afbd2bd,warring.tips,available,12.98,42.48,medium,low,7,namecheap,,,13/09/2026 08:11
-cd03747e-34e1-4732-8d80-8433c9c94585,acinic.tips,available,12.98,42.48,medium,low,6,namecheap,,,
-bb0fca5d-9e9c-47d5-acd4-d6325617f022,akhbari.tips,available,15.99,30.99,medium,low,7,namesilo,,,17/09/2026 23:56
-7de14737-e4a6-4caf-8c57-4127481d01e3,punk.tips,available,15.99,30.99,high,low,4,namesilo,,,23/09/2026 11:14
-001dacfd-e570-4b59-8538-6796e5655fe5,fissure.tips,available,12.98,42.48,high,low,7,namecheap,,,13/08/2026 04:18
-4c6fc940-952b-4b9f-8ca6-89742c46f21b,dismayed.tips,available,12.98,42.48,medium,low,8,namecheap,,,
-57e44198-a152-4deb-91b0-5cd51c3bdcc5,sumptuous.tips,available,12.98,42.48,high,low,9,namecheap,,,14/08/2026 01:02
-9a5bc663-0639-4690-9fae-426485fb6cf8,tegular.tips,available,12.98,42.48,medium,low,7,namecheap,,,11/09/2026 10:16
-4a809e85-1988-4f17-8778-696ef274df43,parasitic.tips,available,12.98,42.48,medium,low,9,namecheap,,,17/08/2026 10:15
-c99839b0-2a0d-43a8-8de3-dd23bc355487,disturbed.tips,available,12.98,42.48,medium,low,9,namecheap,,,11/08/2026 01:48
-9b2ff5fa-a3d3-4d22-bd4b-7599e8edb43c,lowell.tips,available,15.99,30.99,high,low,6,namesilo,,,16/09/2026 14:32
-217f2649-293c-4f40-ab0b-0ba2a31a8fa1,bastille.tips,available,15.99,30.99,high,low,8,namesilo,,,22/09/2026 12:48
-821ddb8b-a6ee-4b34-a185-0dc484a0adb0,comprehend.tips,available,14.99,,high,low,10,name.com,,,
-6350d7a4-17ba-4615-8daf-05ddc78a6da2,cease.tips,available,15.99,30.99,medium,low,5,namesilo,,,27/09/2026 12:23
-3e01b090-b549-4f17-a9e1-f365647192d5,rebound.tips,available,15.99,30.99,high,low,7,namesilo,,,21/09/2026 15:40
-1f2b702c-119d-4bcd-b5a6-dd3ef58d3074,pecs.tips,available,12.98,42.48,medium,low,4,namecheap,,,08/09/2026 12:11
-41ac49e5-44f5-4377-8e79-926fcb084a28,weblike.tips,available,12.98,42.48,medium,low,7,namecheap,,,03/09/2026 16:06
-e8dd2efb-147c-4909-9fe4-5fa25a170ecb,arrive.tips,available,14.99,,high,low,6,name.com,,,
-f62e3c3f-98f4-496c-a542-5fac5455f102,acadia.tips,available,12.98,42.48,medium,low,6,namecheap,,,16/09/2026 20:28
-af81e924-09d0-44e6-bfb6-e9c651f6d5da,voodoo.tips,available,11.59,25.04,high,low,6,spaceship,,,29/09/2026 00:55
-7d44088a-7074-4e68-a687-b65e8ecee633,facies.tips,available,15.99,30.99,medium,low,6,namesilo,,,29/09/2026 04:47
-92c05866-f298-4f75-a164-9718a42ee37b,blurred.tips,available,15.99,30.99,medium,low,7,namesilo,,,22/09/2026 23:21
-79174681-5bed-4983-acc5-5c26d35bf011,xvi.tips,available,15.99,30.99,medium,low,3,namesilo,,,21/09/2026 11:49
-12093638-f154-44e0-909f-6fa6bfba2ce0,orienting.tips,available,12.98,42.48,high,low,9,namecheap,,,04/09/2026 17:56
-059c3c3a-bfcc-4777-b7d0-d2c3367b1fa1,reversely.tips,available,12.98,42.48,medium,low,9,namecheap,,,15/09/2026 23:37
-b0d8f31d-10a2-45c2-ba5b-7f092f5cd6b3,sustenance.tips,available,15.99,30.99,high,low,10,namesilo,,,18/09/2026 07:54
-710823f4-a7de-4a55-a1f7-6dfecbb3700c,basting.tips,available,12.98,42.48,medium,low,7,namecheap,,,22/09/2026 12:43
-c8bdf9c6-1aab-4b9c-89e6-49ab4cf92583,unlettered.tips,available,12.98,42.48,medium,low,10,namecheap,,,21/08/2026 18:33
-1c7846bf-abbe-4a23-873d-b2343b4cf603,rending.tips,available,12.98,42.48,medium,low,7,namecheap,,,09/09/2026 13:57
-a487b5a7-cb16-4189-ac79-48098f30cbb5,unsexy.tips,available,12.98,42.48,medium,low,6,namecheap,,,12/09/2026 19:23
-91f220ec-0b14-44e5-b46c-3cfd8283b73c,incredible.tips,resell,,,high,low,10,Dynadot Inc,14/07/2015 05:38,14/07/2027 05:38,26/09/2026 06:50
-58c941dc-fbcb-4d14-a774-800627d95dc8,scapegrace.tips,available,12.98,42.48,medium,low,10,namecheap,,,24/09/2026 01:41
-0266910b-5a83-47e2-9447-59632c5d3b2b,playfield.tips,available,14.99,,high,low,9,name.com,,,
-b00343ff-4c37-4a46-8b21-8ef0467450cb,wheaten.tips,available,12.98,42.48,medium,low,7,namecheap,,,13/09/2026 11:15
-54d1a68d-2076-4fa9-8e1c-3caae07f7db2,esthetics.tips,available,15.99,30.99,high,low,9,namesilo,,,17/09/2026 13:38
-3153bc93-6580-4192-8d53-f64b1652f29c,unlock.tips,available,11.59,25.04,high,medium,6,spaceship,,,28/09/2026 11:10
-f318dd79-130e-4e65-b2a5-54ae8916b5f9,apidae.tips,available,15.99,30.99,medium,low,6,namesilo,,,19/09/2026 17:24
