@@ -1,10 +1,10 @@
-# Available .TIPS One-Word Domains (30,140)
+# Available .TIPS One-Word Domains (32,306)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C140%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C306%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .tips one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,140 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,306 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,140 domains · **Median ask:** $17.27 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 32,306 domains · **Median ask:** $17.08 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/tips`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| adh.tips     | available | $14.99    | $39.99        | high           | low    | 3      | name.com            |
-| day.tips     | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.     |
-| fab.tips     | premium   | $41.25    | $41.25        | high           | low    | 3      | name.com            |
-| ans.tips     | available | $15.99    | $30.99        | high           | low    | 3      | namesilo            |
-| fit.tips     | resell    | —         | —             | high           | medium | 3      | united-domains GmbH |
-| ips.tips     | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap           |
-| aro.tips     | available | $15.99    | $30.99        | high           | low    | 3      | namesilo            |
-| mama.tips    | resell    | —         | —             | high           | low    | 4      | —                   |
-| ltd.tips     | premium   | $512      | $512          | high           | low    | 3      | namesilo            |
-| auf.tips     | available | $12.98    | $42.48        | high           | low    | 3      | namecheap           |
-| your.tips    | resell    | —         | —             | high           | medium | 4      | —                   |
-| gifts.tips   | premium   | $512      | $512          | medium         | low    | 5      | namesilo            |
-| aug.tips     | available | $12.98    | $42.48        | high           | low    | 3      | namecheap           |
-| check.tips   | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC - 9    |
-| malay.tips   | premium   | $78.54    | $78.54        | high           | low    | 5      | namesilo            |
-| bor.tips     | available | $15       | —             | medium         | low    | 3      | unstoppable         |
-| invest.tips  | resell    | —         | —             | high           | medium | 6      | —                   |
-| blogger.tips | premium   | $34.36    | $34.36        | high           | high   | 7      | spaceship           |
-| cfl.tips     | available | $24.20    | $24.20        | high           | low    | 3      | cloudflare          |
-| reward.tips  | resell    | —         | —             | high           | low    | 6      | NameCheap, Inc.     |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| details.tips  | available | $11.59    | $25.04        | high           | low    | 7      | spaceship           |
+| movement.tips | available | $15.99    | $30.99        | high           | low    | 8      | namesilo            |
+| converge.tips | available | $8.24     | $25.23        | high           | low    | 8      | porkbun             |
+| tomato.tips   | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC    |
+| ans.tips      | available | $15.99    | $30.99        | high           | low    | 3      | namesilo            |
+| day.tips      | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.     |
+| fab.tips      | premium   | $41.25    | $41.25        | high           | low    | 3      | name.com            |
+| aro.tips      | available | $15.99    | $30.99        | high           | low    | 3      | namesilo            |
+| fit.tips      | resell    | —         | —             | high           | medium | 3      | united-domains GmbH |
+| ips.tips      | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap           |
+| auf.tips      | available | $12.98    | $42.48        | high           | low    | 3      | namecheap           |
+| mama.tips     | resell    | —         | —             | high           | low    | 4      | —                   |
+| ltd.tips      | premium   | $512      | $512          | high           | low    | 3      | namesilo            |
+| aug.tips      | available | $12.98    | $42.48        | high           | low    | 3      | namecheap           |
+| your.tips     | resell    | —         | —             | high           | medium | 4      | —                   |
+| gifts.tips    | premium   | $512      | $512          | medium         | low    | 5      | namesilo            |
+| ble.tips      | available | $15.99    | $30.99        | medium         | low    | 3      | namesilo            |
+| check.tips    | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC - 9    |
+| malay.tips    | premium   | $78.54    | $78.54        | high           | low    | 5      | namesilo            |
+| bor.tips      | available | $15       | —             | medium         | low    | 3      | unstoppable         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,140 live domains                        |
+| 1,000-row public sample | 32,306 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TIPS One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TIPS One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
